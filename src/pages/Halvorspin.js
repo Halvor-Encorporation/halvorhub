@@ -59,7 +59,7 @@ const HalvorSpin = () => {
 
     return (
         <div className="App-body">
-            <h1>Roulette</h1>
+            <h1>HalvorSpin</h1>
             <button onClick={handleSpin} style={{ fontSize: '20px', padding: '10px 20px' }}>Spin</button>
 
                 <div className="wheel-container">
