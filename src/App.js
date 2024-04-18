@@ -12,6 +12,7 @@ import SpinWheel from './pages/SpinWheel.js';
 import Roulette from './pages/Roulette.js';
 import Sveinung from './pages/Sveinung.js';
 import Navigation from './pages/Navigation.js';
+import Halvorshow from './pages/Halvorshow.js';
 import ReactGA from 'react-ga';
 
 ReactGA.initialize('G-SERJ5DC5CW');
@@ -29,6 +30,7 @@ const App = () => {
         <Route path="/spinwheel" element={<SpinWheel />} />
         <Route path="/sveinung" element={<Sveinung />} />
         <Route path="/roulette" element={<Roulette />} />
+        <Route path="/halvorshow" element={<Halvorshow />} />
       </Routes>
     </Router>
   );

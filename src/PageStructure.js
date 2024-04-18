@@ -10,6 +10,7 @@ const pageStructure = {
         {"title": "Spin the Wheel🎡", "path": "spinwheel"},
         {"title": "Sveinung's Lek", "path": "sveinung"},
         {"title": "Roulette", "path": "roulette"},
+        {"title": "HalvorShow", "path": "halvorshow"},
       ]
     },
     'courses': {
@@ -24,13 +25,11 @@ const pageStructure = {
 
 
 const NavbarInfo = [];
-
-
 for (const sectionKey in pageStructure) {
     const section = pageStructure[sectionKey];
     const sectionUrl = navigationPageUrl + "?section=" + sectionKey;
     NavbarInfo.push({link: sectionUrl, name: section.title});
-  }
+    }
 
 
 export {NavbarInfo,pageStructure};
