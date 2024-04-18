@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import halvorImage from '../images/halvor.jpg';
+import tirilImage from '../images/tiril.jpg';
+import edvardImage from '../images/edvard.PNG';
+import masaImage from '../images/masa.jpg';
 import Box from '@mui/material/Box';
 import RemoveCircleOutlineRoundedIcon from '@mui/icons-material/RemoveCircleOutlineRounded';
 import AddCircleOutlineRoundedIcon from '@mui/icons-material/AddCircleOutlineRounded';
@@ -9,9 +12,9 @@ import Halvorspin from './Halvorspin';
 const Halvorshow = () => {
 
     const [items, setItems] = useState([
-        { image: halvorImage, name: "Halvor",count: 0 },
-        { image: halvorImage, name: "Halvor2",count: 0 },
-        { image: halvorImage, name: "Halvor3",count: 0 }
+        { image: edvardImage, name: "Halvor",count: 0 },
+        { image: tirilImage, name: "Halvor2",count: 0 },
+        { image: masaImage, name: "Halvor3",count: 0 }
     ]);
     const [showWarning, setShowWarning] = useState(false);
     const [showSpin, setShowSpin] = useState('');
