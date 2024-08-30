@@ -1,9 +1,25 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Button from '@mui/material/Button';
-import questions from '../data/thisorthat.json'; // Adjust the path as needed
+import questionsData from '../data/thisorthat.json'; // Adjust the path as needed
+
+const shuffleArray = (array) => {
+  // Function to shuffle the array using the Fisher-Yates algorithm
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
 
 const ThisOrThat = () => {
+  const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+
+  useEffect(() => {
+    // Shuffle questions when the component mounts
+    const shuffledQuestions = shuffleArray([...questionsData]);
+    setQuestions(shuffledQuestions);
+  }, []);
 
   // Function to handle the next question
   const nextQuestion = () => {
