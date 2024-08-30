@@ -10,6 +10,7 @@ const pageStructure = {
         {"title": "Spin the Wheel🎡", "path": "spinwheel"},
         {"title": "Sveinung's Lek", "path": "sveinung"},
         {"title": "Roulette", "path": "roulette"},
+        {"title": "This or That", "path": "thisorthat"},
       ]
     },
     'courses': {

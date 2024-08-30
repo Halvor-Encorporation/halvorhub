@@ -13,6 +13,7 @@ import Roulette from './pages/Roulette.js';
 import Sveinung from './pages/Sveinung.js';
 import Navigation from './pages/Navigation.js';
 import ReactGA from 'react-ga';
+import ThisOrThat from './pages/ThisOrThat.js';
 
 ReactGA.initialize('G-SERJ5DC5CW');
 
@@ -29,6 +30,7 @@ const App = () => {
         <Route path="/spinwheel" element={<SpinWheel />} />
         <Route path="/sveinung" element={<Sveinung />} />
         <Route path="/roulette" element={<Roulette />} />
+        <Route path="/thisorthat" element={<ThisOrThat />} />
       </Routes>
     </Router>
   );

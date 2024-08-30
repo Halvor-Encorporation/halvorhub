@@ -123,3 +123,23 @@ a {
     width: 60%; /* Adjusted width for larger devices like PCs */
   }
 }
+
+
+.question-container {
+  margin: 20px 0;
+  font-size: 1.5em;
+  font-weight: bold;
+  flex-grow: 1; /* Allows the question to take up available space */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonContainer {
+  position: fixed; /* Keeps the button in a fixed position */
+  bottom: 50px; /* Adjust this value to move button up or down */
+  left: 50%;
+  transform: translateX(-50%); /* Centers the button horizontally */
+  display: flex;
+  gap: 20px;
+}

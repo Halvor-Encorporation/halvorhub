@@ -4,7 +4,7 @@ import ReactGA from 'react-ga';
 
 
 import '../App.css';
-import halvorImage from '../images/halvor.jpg'; // Add this line
+import halvorImage from '../images/halvor2.jpg'; // Add this line
 import { Link } from 'react-router-dom';
 
 const MainPage = () => {

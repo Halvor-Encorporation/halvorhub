@@ -1,0 +1,3966 @@
+[
+    {
+        "option1": "Work vacation",
+        "option2": "work-free holiday?"
+    },
+    {
+        "option1": "Cronuts",
+        "option2": "Croffles?"
+    },
+    {
+        "option1": "Beach-side resort",
+        "option2": "hill-side cottage"
+    },
+    {
+        "option1": "TV series",
+        "option2": "movies?"
+    },
+    {
+        "option1": "Arctic",
+        "option2": "Tropical?"
+    },
+    {
+        "option1": "Croffle",
+        "option2": "Charcoal ice cream?"
+    },
+    {
+        "option1": "Matching",
+        "option2": "mismatched socks?"
+    },
+    {
+        "option1": "Take out",
+        "option2": "dine out?"
+    },
+    {
+        "option1": "Trivia night",
+        "option2": "Board game night?"
+    },
+    {
+        "option1": "Board games",
+        "option2": "card games?"
+    },
+    {
+        "option1": "Video games",
+        "option2": "books?"
+    },
+    {
+        "option1": "Hot weather",
+        "option2": "cold weather?"
+    },
+    {
+        "option1": "Tulips",
+        "option2": "sunflowers?"
+    },
+    {
+        "option1": "Fishing",
+        "option2": "kayaking?"
+    },
+    {
+        "option1": "Audiobook",
+        "option2": "e-book?"
+    },
+    {
+        "option1": "Paperback book",
+        "option2": "hardcover book"
+    },
+    {
+        "option1": "Ninjas",
+        "option2": "Pirates?"
+    },
+    {
+        "option1": "Broccoli",
+        "option2": "squash?"
+    },
+    {
+        "option1": "Trivia pub quiz",
+        "option2": "Card Games?"
+    },
+    {
+        "option1": "Fresh juice",
+        "option2": "smoothie?"
+    },
+    {
+        "option1": "HIIT",
+        "option2": "cardio?"
+    },
+    {
+        "option1": "Stuffed crust pizza",
+        "option2": "normal cheese pizza?"
+    },
+    {
+        "option1": "Pancakes",
+        "option2": "waffles?"
+    },
+    {
+        "option1": "Credit",
+        "option2": "cash?"
+    },
+    {
+        "option1": "History",
+        "option2": "science fiction?"
+    },
+    {
+        "option1": "Fantasy",
+        "option2": "drama?"
+    },
+    {
+        "option1": "Ability to travel without a passport",
+        "option2": "ability to read minds?"
+    },
+    {
+        "option1": "Tacos",
+        "option2": "Burritos?"
+    },
+    {
+        "option1": "Shopping in-store",
+        "option2": "online?"
+    },
+    {
+        "option1": "Shower",
+        "option2": "bath?"
+    },
+    {
+        "option1": "Avocado toast",
+        "option2": "avocado smoothie?"
+    },
+    {
+        "option1": "While sleeping: Fan",
+        "option2": "No Fan?"
+    },
+    {
+        "option1": "Football",
+        "option2": "basketball?"
+    },
+    {
+        "option1": "Sneakers",
+        "option2": "trainers?"
+    },
+    {
+        "option1": "Sushi",
+        "option2": "ramen?"
+    },
+    {
+        "option1": "Live in L.A.",
+        "option2": "New York?"
+    },
+    {
+        "option1": "Chicken nuggets",
+        "option2": "chicken fingers?"
+    },
+    {
+        "option1": "Cupcake",
+        "option2": "Donuts?"
+    },
+    {
+        "option1": "Cheesecake",
+        "option2": "tart?"
+    },
+    {
+        "option1": "Hotel",
+        "option2": "hostel?"
+    },
+    {
+        "option1": "Carpet",
+        "option2": "wooden floors?"
+    },
+    {
+        "option1": "Ice cream in a cone",
+        "option2": "cup?"
+    },
+    {
+        "option1": "Call",
+        "option2": "text?"
+    },
+    {
+        "option1": "Live in London",
+        "option2": "English countryside?"
+    },
+    {
+        "option1": "Chocolate",
+        "option2": "vanilla ice cream?"
+    },
+    {
+        "option1": "New phone",
+        "option2": "a new laptop?"
+    },
+    {
+        "option1": "Tent",
+        "option2": "camping van?"
+    },
+    {
+        "option1": "Live in South Korea",
+        "option2": "Japan?"
+    },
+    {
+        "option1": "Play",
+        "option2": "musical?"
+    },
+    {
+        "option1": "Art gallery",
+        "option2": "history museum?"
+    },
+    {
+        "option1": "Silver",
+        "option2": "gold?"
+    },
+    {
+        "option1": "Be 5\u20192",
+        "option2": "6\u20199?"
+    },
+    {
+        "option1": "Long hair",
+        "option2": "short hair?"
+    },
+    {
+        "option1": "Workout at home",
+        "option2": "workout at the gym?"
+    },
+    {
+        "option1": "Ethereum",
+        "option2": "Bitcoin?"
+    },
+    {
+        "option1": "Iced coffee",
+        "option2": "hot tea?"
+    },
+    {
+        "option1": "Live in England",
+        "option2": "Scotland?"
+    },
+    {
+        "option1": "Soda",
+        "option2": "milkshakes?"
+    },
+    {
+        "option1": "Desktop",
+        "option2": "laptop?"
+    },
+    {
+        "option1": "Connect4",
+        "option2": "Tic-Tac-Toe?"
+    },
+    {
+        "option1": "Scary movies",
+        "option2": "comedy movies?"
+    },
+    {
+        "option1": "Live in 1969",
+        "option2": "in 2069?"
+    },
+    {
+        "option1": "Bar of soap",
+        "option2": "shower gel?"
+    },
+    {
+        "option1": "Snowball fight",
+        "option2": "water balloon fight?"
+    },
+    {
+        "option1": "Smooth jazz",
+        "option2": "Folk?"
+    },
+    {
+        "option1": "Ancient Greece",
+        "option2": "ancient Rome?"
+    },
+    {
+        "option1": "Live in Stockholm",
+        "option2": "Beijing?"
+    },
+    {
+        "option1": "Live in Taiwan",
+        "option2": "Singapore?"
+    },
+    {
+        "option1": "Live in Hong Kong",
+        "option2": "Shanghai?"
+    },
+    {
+        "option1": "Taj Mahal",
+        "option2": "Colosseum?"
+    },
+    {
+        "option1": "Travel alone",
+        "option2": "travel with friends?"
+    },
+    {
+        "option1": "Foresee the future",
+        "option2": "change the past?"
+    },
+    {
+        "option1": "Sweet potato fries",
+        "option2": "French fries?"
+    },
+    {
+        "option1": "Analog",
+        "option2": "Digital?"
+    },
+    {
+        "option1": "Late night snacking",
+        "option2": "Facebook stalking?"
+    },
+    {
+        "option1": "Eat instant noodles for breakfast",
+        "option2": "eat cereal for dinner?"
+    },
+    {
+        "option1": "M&Ms",
+        "option2": "KitKat?"
+    },
+    {
+        "option1": "Cadbury\u2019s",
+        "option2": "Hershey's?"
+    },
+    {
+        "option1": "Lays",
+        "option2": "Pringles?"
+    },
+    {
+        "option1": "Eggs",
+        "option2": "pancakes for breakfast?"
+    },
+    {
+        "option1": "Sedan",
+        "option2": "SUV?"
+    },
+    {
+        "option1": "Comic Book",
+        "option2": "History novel?"
+    },
+    {
+        "option1": "Almonds",
+        "option2": "Peanuts?"
+    },
+    {
+        "option1": "Fan",
+        "option2": "Air Conditioner?"
+    },
+    {
+        "option1": "Balcony",
+        "option2": "Terrace?"
+    },
+    {
+        "option1": "Plants",
+        "option2": "Decals?"
+    },
+    {
+        "option1": "Stop using paper",
+        "option2": "stop using plastic?"
+    },
+    {
+        "option1": "Crunchy Peanut Butter",
+        "option2": "Smooth Peanut Butter?"
+    },
+    {
+        "option1": "Instant noodles",
+        "option2": "pizza?"
+    },
+    {
+        "option1": "Fresh flowers",
+        "option2": "potted plants?"
+    },
+    {
+        "option1": "Have a vegetable garden",
+        "option2": "have a home theater?"
+    },
+    {
+        "option1": "Live on a farm",
+        "option2": "live in a forest cabin?"
+    },
+    {
+        "option1": "Surfing",
+        "option2": "Kayaking?"
+    },
+    {
+        "option1": "Chess",
+        "option2": "Connect4?"
+    },
+    {
+        "option1": "Hangman",
+        "option2": "Rock Paper Scissors?"
+    },
+    {
+        "option1": "Giphy",
+        "option2": "memes?"
+    },
+    {
+        "option1": "Hot dogs",
+        "option2": "Corn dogs?"
+    },
+    {
+        "option1": "Korean",
+        "option2": "Japanese?"
+    },
+    {
+        "option1": "Italian",
+        "option2": "Indian?"
+    },
+    {
+        "option1": "Start a business",
+        "option2": "work in a job?"
+    },
+    {
+        "option1": "Own a house",
+        "option2": "travel the world?"
+    },
+    {
+        "option1": "Have lots of kids",
+        "option2": "adopt lots of dogs?"
+    },
+    {
+        "option1": "Movie night",
+        "option2": "date night?"
+    },
+    {
+        "option1": "Mexican food",
+        "option2": "Lebanese food?"
+    },
+    {
+        "option1": "Markers",
+        "option2": "crayons?"
+    },
+    {
+        "option1": "Homeschooling",
+        "option2": "Classroom learning?"
+    },
+    {
+        "option1": "Sandwich with crusts",
+        "option2": "no crusts?"
+    },
+    {
+        "option1": "Hybrid",
+        "option2": "remote work?"
+    },
+    {
+        "option1": "Do the laundry",
+        "option2": "do the dishes?"
+    },
+    {
+        "option1": "Do the dishes",
+        "option2": "cook thrice a day?"
+    },
+    {
+        "option1": "Batman",
+        "option2": "Superman?"
+    },
+    {
+        "option1": "Monthly salary",
+        "option2": "Hourly wage?"
+    },
+    {
+        "option1": "Winning the lottery",
+        "option2": "becoming famous overnight?"
+    },
+    {
+        "option1": "\u200b\u200bPayPal",
+        "option2": "Venmo?"
+    },
+    {
+        "option1": "Espresso",
+        "option2": "cappuccino?"
+    },
+    {
+        "option1": "Drip coffee",
+        "option2": "Instant coffee?"
+    },
+    {
+        "option1": "Silly socks",
+        "option2": "funny t-shirts?"
+    },
+    {
+        "option1": "Instagram",
+        "option2": "Twitter?"
+    },
+    {
+        "option1": "Christmas",
+        "option2": "Easter?"
+    },
+    {
+        "option1": "Antique Trinkets",
+        "option2": "Used books?"
+    },
+    {
+        "option1": "Snowfall at night",
+        "option2": "rain in the morning?"
+    },
+    {
+        "option1": "Shooting stars",
+        "option2": "lightning?"
+    },
+    {
+        "option1": "Mossy trees",
+        "option2": "vintage cars?"
+    },
+    {
+        "option1": "Train rides",
+        "option2": "road trips?"
+    },
+    {
+        "option1": "Baked goods",
+        "option2": "sun-dried goods?"
+    },
+    {
+        "option1": "Hanging plants",
+        "option2": "candlesticks?"
+    },
+    {
+        "option1": "Caramel coffee",
+        "option2": "gingerbread lattes?"
+    },
+    {
+        "option1": "Warm coats",
+        "option2": "fuzzy socks?"
+    },
+    {
+        "option1": "Fireplaces",
+        "option2": "comfy sofas?"
+    },
+    {
+        "option1": "Live in a house",
+        "option2": "in an apartment"
+    },
+    {
+        "option1": "Give a speech",
+        "option2": "write a paper"
+    },
+    {
+        "option1": "Live next door to your best friend",
+        "option2": "be a penpal"
+    },
+    {
+        "option1": "Cuddle up with a blanket",
+        "option2": "just turn up the heat"
+    },
+    {
+        "option1": "Walk on carpet",
+        "option2": "hardwood floors"
+    },
+    {
+        "option1": "Ride in a classic car",
+        "option2": "rebuild one"
+    },
+    {
+        "option1": "Hang out on the front porch",
+        "option2": "the back porch"
+    },
+    {
+        "option1": "Play in the front yard",
+        "option2": "the back yard"
+    },
+    {
+        "option1": "Help someone walk across the street",
+        "option2": "start a transportation service"
+    },
+    {
+        "option1": "Apologize first",
+        "option2": "wait for someone to say sorry to you"
+    },
+    {
+        "option1": "Own your own home",
+        "option2": "rent one"
+    },
+    {
+        "option1": "Have children",
+        "option2": "adopt children"
+    },
+    {
+        "option1": "Go to college",
+        "option2": "go to a technical school"
+    },
+    {
+        "option1": "Work on cars",
+        "option2": "work on airplanes"
+    },
+    {
+        "option1": "Be good with animals",
+        "option2": "good with children"
+    },
+    {
+        "option1": "Be considered \u201cmusical\u201d",
+        "option2": "considered \u201cmechanical\u201d"
+    },
+    {
+        "option1": "Be the \u201cfix it\u201d person",
+        "option2": "be everyone\u2019s shoulder to cry on"
+    },
+    {
+        "option1": "Repair a printer",
+        "option2": "build a drone from scratch"
+    },
+    {
+        "option1": "Work for the news",
+        "option2": "be on the news"
+    },
+    {
+        "option1": "Be the one that everyone calls in an emergency",
+        "option2": "be the one everyone goes to for a laugh"
+    },
+    {
+        "option1": "Know how to take good notes",
+        "option2": "know how to fix a car"
+    },
+    {
+        "option1": "Be an expert in human anatomy",
+        "option2": "an expert in religions"
+    },
+    {
+        "option1": "Learn about world religions",
+        "option2": "learn about the theory of relativity"
+    },
+    {
+        "option1": "Be known as a kind person",
+        "option2": "be known as a resourceful person"
+    },
+    {
+        "option1": "Be known as an active person",
+        "option2": "be known as a communicator"
+    },
+    {
+        "option1": "Be better at writing",
+        "option2": "better at speaking"
+    },
+    {
+        "option1": "In the frontlines of a crisis",
+        "option2": "help from the background"
+    },
+    {
+        "option1": "Be the class clown",
+        "option2": "on the honor roll"
+    },
+    {
+        "option1": "Clean up national parks",
+        "option2": "build a skyscraper"
+    },
+    {
+        "option1": "Teach a class",
+        "option2": "learn from reading a book"
+    },
+    {
+        "option1": "Teach art",
+        "option2": "take an art class"
+    },
+    {
+        "option1": "Be a teacher",
+        "option2": "be a student"
+    },
+    {
+        "option1": "Travel all the time",
+        "option2": "mostly stay close to home"
+    },
+    {
+        "option1": "Work on a puzzle",
+        "option2": "build a robot"
+    },
+    {
+        "option1": "Fix a computer",
+        "option2": "create a video game"
+    },
+    {
+        "option1": "Be funny",
+        "option2": "good looking"
+    },
+    {
+        "option1": "Be intellectual",
+        "option2": "athletic"
+    },
+    {
+        "option1": "Have one good friend",
+        "option2": "many friends"
+    },
+    {
+        "option1": "Be the most popular kid",
+        "option2": "be the one that everyone trusts"
+    },
+    {
+        "option1": "Go out and meet new people",
+        "option2": "let them come to you first"
+    },
+    {
+        "option1": "Have people think you were honest",
+        "option2": "kind"
+    },
+    {
+        "option1": "Repair a car",
+        "option2": "buy a new one"
+    },
+    {
+        "option1": "Commit your life to helping the poor",
+        "option2": "donate lots of money to education"
+    },
+    {
+        "option1": "Live by yourself",
+        "option2": "with more than four people"
+    },
+    {
+        "option1": "Volunteer at a food pantry",
+        "option2": "at the library"
+    },
+    {
+        "option1": "Go shopping",
+        "option2": "volunteer at a homeless shelter"
+    },
+    {
+        "option1": "Be the oldest",
+        "option2": "a younger sibling"
+    },
+    {
+        "option1": "Have 5 days of school each week",
+        "option2": "less"
+    },
+    {
+        "option1": "Have long summer vacations",
+        "option2": "school year round"
+    },
+    {
+        "option1": "Fall asleep in complete darkness",
+        "option2": "with the lights on"
+    },
+    {
+        "option1": "Have the windows open",
+        "option2": "keep the heat/AC on"
+    },
+    {
+        "option1": "Have a basketball hoop in your driveway",
+        "option2": "a baseball diamond in the neighborhood"
+    },
+    {
+        "option1": "Learn at home",
+        "option2": "at a school"
+    },
+    {
+        "option1": "Have your own bedroom",
+        "option2": "share with a sibling"
+    },
+    {
+        "option1": "Stay busy",
+        "option2": "spend a lot of time thinking and reflecting"
+    },
+    {
+        "option1": "Stop and smell the roses",
+        "option2": "pick a bouquet of dandelions"
+    },
+    {
+        "option1": "Buy a bouquet of flowers",
+        "option2": "pick random wildflowers"
+    },
+    {
+        "option1": "Write an email",
+        "option2": "write a letter"
+    },
+    {
+        "option1": "Make a phone call",
+        "option2": "send a postcard"
+    },
+    {
+        "option1": "Wash the dishes",
+        "option2": "clean the bathroom"
+    },
+    {
+        "option1": "Play with robots",
+        "option2": "legos"
+    },
+    {
+        "option1": "Keep a secret",
+        "option2": "tell a secret"
+    },
+    {
+        "option1": "Be someone\u2019s best friend",
+        "option2": "be a part of a circle of friends"
+    },
+    {
+        "option1": "Give someone a high five",
+        "option2": "a handshake"
+    },
+    {
+        "option1": "Give someone a hug",
+        "option2": "a handshake"
+    },
+    {
+        "option1": "Receive a kiss",
+        "option2": "a smile from a loved one"
+    },
+    {
+        "option1": "Be called \u201cclever\u201d",
+        "option2": "be called \u201cdriven\u201d"
+    },
+    {
+        "option1": "Be social",
+        "option2": "be a loner"
+    },
+    {
+        "option1": "Gummy worms",
+        "option2": "gummy bears?"
+    },
+    {
+        "option1": "Nuts",
+        "option2": "no nuts?"
+    },
+    {
+        "option1": "Coffee black",
+        "option2": "with cream and sugar?"
+    },
+    {
+        "option1": "Markers",
+        "option2": "crayons?"
+    },
+    {
+        "option1": "Travel by plane",
+        "option2": "boat?"
+    },
+    {
+        "option1": "Blinds",
+        "option2": "curtains?"
+    },
+    {
+        "option1": "White meat",
+        "option2": "dark meat?"
+    },
+    {
+        "option1": "Apple",
+        "option2": "Android?"
+    },
+    {
+        "option1": "Chips and dip",
+        "option2": "chips with salsa?"
+    },
+    {
+        "option1": "Hard",
+        "option2": "soft shell tacos?"
+    },
+    {
+        "option1": "Bunny",
+        "option2": "squirrel?"
+    },
+    {
+        "option1": "Ice cream",
+        "option2": "freeze pop?"
+    },
+    {
+        "option1": "Reading",
+        "option2": "writing?"
+    },
+    {
+        "option1": "Cookies",
+        "option2": "cake?"
+    },
+    {
+        "option1": "Cat",
+        "option2": "dog?"
+    },
+    {
+        "option1": "Computer games",
+        "option2": "video games?"
+    },
+    {
+        "option1": "Pop music",
+        "option2": "Rock music?"
+    },
+    {
+        "option1": "Stuff animals",
+        "option2": "dolls?"
+    },
+    {
+        "option1": "Pancakes",
+        "option2": "waffles?"
+    },
+    {
+        "option1": "Hot chocolate",
+        "option2": "coffee?"
+    },
+    {
+        "option1": "Morning",
+        "option2": "evening?"
+    },
+    {
+        "option1": "Day",
+        "option2": "night?"
+    },
+    {
+        "option1": "Text message",
+        "option2": "call?"
+    },
+    {
+        "option1": "Library",
+        "option2": "museums?"
+    },
+    {
+        "option1": "French",
+        "option2": "Spanish?"
+    },
+    {
+        "option1": "Summer",
+        "option2": "winter?"
+    },
+    {
+        "option1": "Theatre",
+        "option2": "cinema?"
+    },
+    {
+        "option1": "Love",
+        "option2": "money?"
+    },
+    {
+        "option1": "Book",
+        "option2": "movie?"
+    },
+    {
+        "option1": "Tea",
+        "option2": "coffee?"
+    },
+    {
+        "option1": "Chocolate",
+        "option2": "vanilla?"
+    },
+    {
+        "option1": "Coca-Cola",
+        "option2": "Pepsi?"
+    },
+    {
+        "option1": "Rain",
+        "option2": "snow?"
+    },
+    {
+        "option1": "Car",
+        "option2": "motorcycle?"
+    },
+    {
+        "option1": "Comedy",
+        "option2": "horror?"
+    },
+    {
+        "option1": "Hamburgers",
+        "option2": "hot dogs?"
+    },
+    {
+        "option1": "Paper",
+        "option2": "plastic?"
+    },
+    {
+        "option1": "Boat",
+        "option2": "plane?"
+    },
+    {
+        "option1": "Painting",
+        "option2": "drawing?"
+    },
+    {
+        "option1": "Reading",
+        "option2": "writing?"
+    },
+    {
+        "option1": "Singing",
+        "option2": "dancing?"
+    },
+    {
+        "option1": "T-Shirts",
+        "option2": "sweaters?"
+    },
+    {
+        "option1": "Flowers",
+        "option2": "trees?"
+    },
+    {
+        "option1": "Phone",
+        "option2": "computer?"
+    },
+    {
+        "option1": "Brown",
+        "option2": "black hair?"
+    },
+    {
+        "option1": "Superman",
+        "option2": "Batman?"
+    },
+    {
+        "option1": "Reminisce with your grandparent",
+        "option2": "watch old home movies"
+    },
+    {
+        "option1": "Learn to sail a boat",
+        "option2": "ride a horse"
+    },
+    {
+        "option1": "Sleep in a twin bed",
+        "option2": "in bunk beds"
+    },
+    {
+        "option1": "Go camping",
+        "option2": "read an adventure novel"
+    },
+    {
+        "option1": "Use a computer",
+        "option2": "a tablet/iPad"
+    },
+    {
+        "option1": "Text",
+        "option2": "talk to someone on the phone"
+    },
+    {
+        "option1": "Learn complicated math",
+        "option2": "how to paint a portrait"
+    },
+    {
+        "option1": "See abstract paintings",
+        "option2": "watercolors of landscapes"
+    },
+    {
+        "option1": "Imagine a whole new world",
+        "option2": "stick to just the facts"
+    },
+    {
+        "option1": "Climb a tree",
+        "option2": "relax on a balcony"
+    },
+    {
+        "option1": "Go to an opera",
+        "option2": "go to a rock concert"
+    },
+    {
+        "option1": "Fix things",
+        "option2": "create things"
+    },
+    {
+        "option1": "Tell a long story",
+        "option2": "a short story"
+    },
+    {
+        "option1": "Ride a pretty pony",
+        "option2": "a classic motorcycle"
+    },
+    {
+        "option1": "Watch the sunrise",
+        "option2": "the sunset"
+    },
+    {
+        "option1": "Run through the sprinkler",
+        "option2": "go to the pool"
+    },
+    {
+        "option1": "Do your school work by yourself",
+        "option2": "with help"
+    },
+    {
+        "option1": "Make a sweater for a dog",
+        "option2": "make little hats for babies"
+    },
+    {
+        "option1": "Take art classes",
+        "option2": "extra P.E. classes"
+    },
+    {
+        "option1": "Be on a team",
+        "option2": "be the team captain"
+    },
+    {
+        "option1": "Use a ladder",
+        "option2": "try climbing it yourself"
+    },
+    {
+        "option1": "Climb a mountain",
+        "option2": "run a mile"
+    },
+    {
+        "option1": "Run a race",
+        "option2": "play a trivia game"
+    },
+    {
+        "option1": "Take a quiz",
+        "option2": "give a presentation"
+    },
+    {
+        "option1": "Take self defense classes",
+        "option2": "take an online academic course"
+    },
+    {
+        "option1": "Get your ears pierced",
+        "option2": "dye your hair"
+    },
+    {
+        "option1": "Read a book to yourself",
+        "option2": "out loud to someone else"
+    },
+    {
+        "option1": "Visit a museum",
+        "option2": "a bookstore"
+    },
+    {
+        "option1": "Skinny French fries",
+        "option2": "thick-cut wedges?"
+    },
+    {
+        "option1": "Dark chocolate",
+        "option2": "white chocolate?"
+    },
+    {
+        "option1": "Orange juice",
+        "option2": "apple juice?"
+    },
+    {
+        "option1": "Hot dog",
+        "option2": "hamburger?"
+    },
+    {
+        "option1": "Sour cream",
+        "option2": "guacamole?"
+    },
+    {
+        "option1": "Pie",
+        "option2": "cake?"
+    },
+    {
+        "option1": "Iced tea",
+        "option2": "iced coffee?"
+    },
+    {
+        "option1": "Pancakes",
+        "option2": "French toast?"
+    },
+    {
+        "option1": "Ice cream sandwich",
+        "option2": "popsicle?"
+    },
+    {
+        "option1": "Chicken nuggets",
+        "option2": "chicken strips?"
+    },
+    {
+        "option1": "Tacos",
+        "option2": "burrito?"
+    },
+    {
+        "option1": "Pepsi",
+        "option2": "Coke?"
+    },
+    {
+        "option1": "Bagels",
+        "option2": "donuts?"
+    },
+    {
+        "option1": "Cardio",
+        "option2": "weight lifting?"
+    },
+    {
+        "option1": "Amazon",
+        "option2": "local shops?"
+    },
+    {
+        "option1": "McDonald's",
+        "option2": "Taco Bell?"
+    },
+    {
+        "option1": "Milkshakes",
+        "option2": "smoothies?"
+    },
+    {
+        "option1": "Pasta",
+        "option2": "pizza?"
+    },
+    {
+        "option1": "Potato chips",
+        "option2": "pretzels?"
+    },
+    {
+        "option1": "Ramen",
+        "option2": "pho?"
+    },
+    {
+        "option1": "Cereal",
+        "option2": "oatmeal?"
+    },
+    {
+        "option1": "Breakfast",
+        "option2": "brunch?"
+    },
+    {
+        "option1": "Sweet",
+        "option2": "salty?"
+    },
+    {
+        "option1": "Comedy",
+        "option2": "drama?"
+    },
+    {
+        "option1": "Xbox",
+        "option2": "PlayStation?"
+    },
+    {
+        "option1": "Small group",
+        "option2": "big party?"
+    },
+    {
+        "option1": "Board game",
+        "option2": "multi-player video game?"
+    },
+    {
+        "option1": "Truth",
+        "option2": "dare?"
+    },
+    {
+        "option1": "Short nails",
+        "option2": "long nails?"
+    },
+    {
+        "option1": "Long hair",
+        "option2": "short hair?"
+    },
+    {
+        "option1": "Twitter",
+        "option2": "Facebook?"
+    },
+    {
+        "option1": "Android",
+        "option2": "iPhone?"
+    },
+    {
+        "option1": "Musical theater",
+        "option2": "live concert?"
+    },
+    {
+        "option1": "Theme park",
+        "option2": "botanical garden?"
+    },
+    {
+        "option1": "Roller coasters",
+        "option2": "bumper cars?"
+    },
+    {
+        "option1": "Reality TV shows",
+        "option2": "scripted programs?"
+    },
+    {
+        "option1": "Carpet",
+        "option2": "hardwood floors?"
+    },
+    {
+        "option1": "Red",
+        "option2": "blue?"
+    },
+    {
+        "option1": "Summer",
+        "option2": "winter?"
+    },
+    {
+        "option1": "Halloween",
+        "option2": "Valentine's Day?"
+    },
+    {
+        "option1": "Football",
+        "option2": "baseball?"
+    },
+    {
+        "option1": "Cheerleading",
+        "option2": "dance?"
+    },
+    {
+        "option1": "Dogs",
+        "option2": "cats?"
+    },
+    {
+        "option1": "Memes",
+        "option2": "gifs?"
+    },
+    {
+        "option1": "Pinterest",
+        "option2": "Etsy?"
+    },
+    {
+        "option1": "Receive a box of candy",
+        "option2": "roses for Valentine's Day?"
+    },
+    {
+        "option1": "Receive a piece of jewelry",
+        "option2": "a room makeover for an anniversary?"
+    },
+    {
+        "option1": "Receive a greeting card",
+        "option2": "a balloon for a birthday wish?"
+    },
+    {
+        "option1": "Receive a surprise romantic dinner",
+        "option2": "a surprise shopping spree?"
+    },
+    {
+        "option1": "Receive a kiss on the cheek",
+        "option2": "a hug?"
+    },
+    {
+        "option1": "Receive a love note on your car windshield at work",
+        "option2": "a sexy text message?"
+    },
+    {
+        "option1": "Receive a single rose on your pillow",
+        "option2": "an expensive piece of chocolate?"
+    },
+    {
+        "option1": "Receive a love note in your lunch bag",
+        "option2": "sweet candy treat?"
+    },
+    {
+        "option1": "Receive a gift card from your favorite store",
+        "option2": "a wrapped gift, contents unknown?"
+    },
+    {
+        "option1": "Receive wink during a business meeting",
+        "option2": "play footsie at dinner?"
+    },
+    {
+        "option1": "Be best friends/lovers",
+        "option2": "just lovers?"
+    },
+    {
+        "option1": "Spend a holiday alone together",
+        "option2": "with family?"
+    },
+    {
+        "option1": "Have separate hobbies",
+        "option2": "one together?"
+    },
+    {
+        "option1": "Go to your high school reunion alone",
+        "option2": "together?"
+    },
+    {
+        "option1": "Sing your favorite song together",
+        "option2": "listen to a recording?"
+    },
+    {
+        "option1": "Tell your lover a white lie to spare feelings",
+        "option2": "blurt out the truth?"
+    },
+    {
+        "option1": "Forgive your lover",
+        "option2": "harbor a grudge?"
+    },
+    {
+        "option1": "Try something new with your lover",
+        "option2": "stay with the tried and true?"
+    },
+    {
+        "option1": "Spend the evening at home cuddling on the couch",
+        "option2": "painting the town red?"
+    },
+    {
+        "option1": "Take a spontaneous trip together",
+        "option2": "plan every detail?"
+    },
+    {
+        "option1": "Write your own wedding vows",
+        "option2": "copy from a website?"
+    },
+    {
+        "option1": "Serenade your lover",
+        "option2": "hire musicians?"
+    },
+    {
+        "option1": "Surprise your lover with rose petals strewn from the door to the bedroom",
+        "option2": "greet them at the door with Champagne?"
+    },
+    {
+        "option1": "Find your lover waiting in a bubble bath",
+        "option2": "all packed for a surprise weekend getaway?"
+    },
+    {
+        "option1": "Come home to dinner on the table",
+        "option2": "ushered out to your favorite restaurant?"
+    },
+    {
+        "option1": "Spend the day together being pampered at a spa",
+        "option2": "enjoying a workout at the gym?"
+    },
+    {
+        "option1": "Spend the evening together playing a video game",
+        "option2": "cuddled together reading a book?"
+    },
+    {
+        "option1": "Go to a jazz club",
+        "option2": "a rock concert?"
+    },
+    {
+        "option1": "Dance to slow music",
+        "option2": "go wild with retro disco music?"
+    },
+    {
+        "option1": "Read poetry together",
+        "option2": "go sailing on the lake?"
+    },
+    {
+        "option1": "Be rich",
+        "option2": "famous?"
+    },
+    {
+        "option1": "Be able to fly",
+        "option2": "read minds?"
+    },
+    {
+        "option1": "Travel back in time,",
+        "option2": "travel to the future?"
+    },
+    {
+        "option1": "Explore the deep sea",
+        "option2": "outer space?"
+    },
+    {
+        "option1": "Be an artist",
+        "option2": "an athlete?"
+    },
+    {
+        "option1": "Be a good singer",
+        "option2": "a good dancer?"
+    },
+    {
+        "option1": "Give up social media",
+        "option2": "be an influencer?"
+    },
+    {
+        "option1": "Be bored",
+        "option2": "busy?"
+    },
+    {
+        "option1": "Be feared",
+        "option2": "loved?"
+    },
+    {
+        "option1": "Have more time",
+        "option2": "more money?"
+    },
+    {
+        "option1": "Know how you die",
+        "option2": "when you die?"
+    },
+    {
+        "option1": "Be able to see into the future",
+        "option2": "not?"
+    },
+    {
+        "option1": "Be really funny",
+        "option2": "really smart?"
+    },
+    {
+        "option1": "Die in 10 years with no regrets",
+        "option2": "live for 30 years with lots of regrets?"
+    },
+    {
+        "option1": "Die before",
+        "option2": "after your partner?"
+    },
+    {
+        "option1": "Be your own boss",
+        "option2": "work for someone else?"
+    },
+    {
+        "option1": "Go to jail for a crime you didn\u2019t commit,",
+        "option2": "get away with a crime but be paranoid about being caught for your entire life?"
+    },
+    {
+        "option1": "Have 10 children",
+        "option2": "no children?"
+    },
+    {
+        "option1": "Live in a big city",
+        "option2": "a small town?"
+    },
+    {
+        "option1": "Have a public",
+        "option2": "private proposal?"
+    },
+    {
+        "option1": "Have a huge wedding",
+        "option2": "just get a marriage license?"
+    },
+    {
+        "option1": "Eat only ice cream for the rest of your life,",
+        "option2": "never eat ice cream again?"
+    },
+    {
+        "option1": "Have a personal chef",
+        "option2": "a chauffeur?"
+    },
+    {
+        "option1": "Be too hot",
+        "option2": "too cold?"
+    },
+    {
+        "option1": "Spend time at the beach",
+        "option2": "the ocean?"
+    },
+    {
+        "option1": "Live without movies",
+        "option2": "live without music?"
+    },
+    {
+        "option1": "Read a book",
+        "option2": "watch a movie?"
+    },
+    {
+        "option1": "Be able to teleport",
+        "option2": "have a private plane?"
+    },
+    {
+        "option1": "Look 10 years older from the neck up",
+        "option2": "down?"
+    },
+    {
+        "option1": "Always be underdressed",
+        "option2": "always be overdressed?"
+    },
+    {
+        "option1": "Be 45 minutes late",
+        "option2": "45 minutes early to every event or engagement?"
+    },
+    {
+        "option1": "Know every language, but never be able to travel to another country,",
+        "option2": "would you"
+    },
+    {
+        "option1": "Be remembered in history books for doing something terrible,",
+        "option2": "be completely forgotten after you die?"
+    },
+    {
+        "option1": "Not brush your teeth for a week",
+        "option2": "not take a shower for two weeks?"
+    },
+    {
+        "option1": "Be beautiful and dumb",
+        "option2": "smart and unattractive?"
+    },
+    {
+        "option1": "Be able to speak any language",
+        "option2": "be able to speak to animals?"
+    },
+    {
+        "option1": "Have your least favorite song played on a constant loop,",
+        "option2": "never listen to music ever again?"
+    },
+    {
+        "option1": "Have a photographic memory",
+        "option2": "perfect pitch?"
+    },
+    {
+        "option1": "Lose all of the money you earned this year",
+        "option2": "lose all of the memories you made this year?"
+    },
+    {
+        "option1": "Get stranded by yourself on a desert island,",
+        "option2": "stranded on a snow mountain?"
+    },
+    {
+        "option1": "Be on a dating show",
+        "option2": "a survival show?"
+    },
+    {
+        "option1": "Always have a runny rose",
+        "option2": "always have a cough?"
+    },
+    {
+        "option1": "Be a horse",
+        "option2": "a dog?"
+    },
+    {
+        "option1": "Be serenaded by Snoop Dog",
+        "option2": "Mariah Carey?"
+    },
+    {
+        "option1": "Instantly become a successful startup founder",
+        "option2": "instantly become a CEO of a major company?"
+    },
+    {
+        "option1": "Always sit by the printer",
+        "option2": "always sit by the water cooler at the office?"
+    },
+    {
+        "option1": "Be the best in the world at a skill",
+        "option2": "job of your choice but have no work-life balance or be mediocre at work and have a great work-life balance?"
+    },
+    {
+        "option1": "Work an extra hour and get two hours of break time",
+        "option2": "work with no breaks and leave the office an hour early?"
+    },
+    {
+        "option1": "Live ten minutes away from a mediocre job",
+        "option2": "commute two hours to your dream job?"
+    },
+    {
+        "option1": "Work at a really fancy office",
+        "option2": "work at an office where you could wear pyjamas to work?"
+    },
+    {
+        "option1": "Get paid a year\u2019s salary at once",
+        "option2": "get paid in installments throughout the year?"
+    },
+    {
+        "option1": "Work for a startup for the rest of your life",
+        "option2": "work for a multinational corporation for the rest of your life?"
+    },
+    {
+        "option1": "Give up eating pizzas with your team",
+        "option2": "give up eating birthday cakes with your team?"
+    },
+    {
+        "option1": "Have super fast typing speed",
+        "option2": "only be able to read ridiculously fast?"
+    },
+    {
+        "option1": "always be 10 minutes late to work",
+        "option2": "always be 20 minutes early to work?"
+    },
+    {
+        "option1": "Take an all-expenses-paid dream vacation for a month every year at a mediocre job",
+        "option2": "have your dream job but pay for your vacations yourself?"
+    },
+    {
+        "option1": "Have a constant supply of the best coffee",
+        "option2": "only have a constant supply of the best snacks at your office?"
+    },
+    {
+        "option1": "Work four-day weeks with long work hours",
+        "option2": "six-day weeks with short work hours?"
+    },
+    {
+        "option1": "Work in an office for the rest of your life",
+        "option2": "work remotely for the rest of your life?"
+    },
+    {
+        "option1": "Work a mediocre job and be the best at Microsoft Excel",
+        "option2": "work at your dream job and be poor at Microsoft Excel?"
+    },
+    {
+        "option1": "Be in charge of the food committee",
+        "option2": "be in charge of games arrangements for an office party?"
+    },
+    {
+        "option1": "Have your salary come in on the first day of the month",
+        "option2": "the last day of the month?"
+    },
+    {
+        "option1": "only be able to have your video on during an office conference call",
+        "option2": "only be able to Have your video off during an office conference call?"
+    },
+    {
+        "option1": "Be able to move to a new city every month",
+        "option2": "never be able to leave the city you were born in?"
+    },
+    {
+        "option1": "Live in a place that was always summer,",
+        "option2": "a place that was always winter"
+    },
+    {
+        "option1": "Be a world-class spy",
+        "option2": "a supermodel"
+    },
+    {
+        "option1": "Star in a TV show,",
+        "option2": "do voiceover for your favorite video game"
+    },
+    {
+        "option1": "Be a cat with nine lives,",
+        "option2": "a dog with three"
+    },
+    {
+        "option1": "Live on a hot air balloon,",
+        "option2": "on a pirate ship"
+    },
+    {
+        "option1": "Know how to build a house,",
+        "option2": "know how to build a computer"
+    },
+    {
+        "option1": "Be an incredible painter,",
+        "option2": "an incredible mathematician"
+    },
+    {
+        "option1": "Be a whale",
+        "option2": "a hawk"
+    },
+    {
+        "option1": "Live in a world with dinosaurs",
+        "option2": "a world with giants"
+    },
+    {
+        "option1": "Have to rhyme everything you say,",
+        "option2": "sing everything you say"
+    },
+    {
+        "option1": "Live in a world ruled by lions,",
+        "option2": "a world ruled by monkeys"
+    },
+    {
+        "option1": "Be able to sense danger,",
+        "option2": "be able to sense safety"
+    },
+    {
+        "option1": "Sleep on a waterbed,",
+        "option2": "sleep on a featherbed"
+    },
+    {
+        "option1": "The hair on your head grow unstoppably,",
+        "option2": "have it never grow again"
+    },
+    {
+        "option1": "Have a wardrobe of all brow,",
+        "option2": "a wardrobe of all green"
+    },
+    {
+        "option1": "Wear uncomfortable shoes,",
+        "option2": "wear uncomfortable clothing"
+    },
+    {
+        "option1": "Drink only tea",
+        "option2": "drink only water"
+    },
+    {
+        "option1": "Spend a whole week dancing",
+        "option2": "your whole life on a playground"
+    },
+    {
+        "option1": "Be followed by the paparazzi,",
+        "option2": "be followed by a rabid dog"
+    },
+    {
+        "option1": "Live in an alternate universe where everything is the opposite of what you know,",
+        "option2": "live in an alternate universe where you know nothing"
+    },
+    {
+        "option1": "Madonna",
+        "option2": "Cher?"
+    },
+    {
+        "option1": "Ariana Grande",
+        "option2": "Taylor Swift?"
+    },
+    {
+        "option1": "Kylie",
+        "option2": "Kendall?"
+    },
+    {
+        "option1": "Britney Spears",
+        "option2": "Christina Aguilera?"
+    },
+    {
+        "option1": "Read a book",
+        "option2": "watch a movie?"
+    },
+    {
+        "option1": "Netflix",
+        "option2": "Hulu?"
+    },
+    {
+        "option1": "Friends",
+        "option2": "Seinfeld?"
+    },
+    {
+        "option1": "Road trip",
+        "option2": "direct flight?"
+    },
+    {
+        "option1": "Cabana",
+        "option2": "cabin?"
+    },
+    {
+        "option1": "Superman",
+        "option2": "Batman?"
+    },
+    {
+        "option1": "Bungee jumping",
+        "option2": "skydiving?"
+    },
+    {
+        "option1": "Scary movie",
+        "option2": "rom-com?"
+    },
+    {
+        "option1": "Marvel",
+        "option2": "DC comics?"
+    },
+    {
+        "option1": "Disney",
+        "option2": "Pixar?"
+    },
+    {
+        "option1": "Gold",
+        "option2": "silver?"
+    },
+    {
+        "option1": "Sunrise",
+        "option2": "sunset?"
+    },
+    {
+        "option1": "Introvert",
+        "option2": "extrovert?"
+    },
+    {
+        "option1": "Shower",
+        "option2": "bath?"
+    },
+    {
+        "option1": "Silence",
+        "option2": "chatter?"
+    },
+    {
+        "option1": "80s",
+        "option2": "'90s?"
+    },
+    {
+        "option1": "Country",
+        "option2": "city?"
+    },
+    {
+        "option1": "East coast",
+        "option2": "west coast?"
+    },
+    {
+        "option1": "Neutral",
+        "option2": "colourful?"
+    },
+    {
+        "option1": "Sleep in",
+        "option2": "stay up?"
+    },
+    {
+        "option1": "Sand",
+        "option2": "snow?"
+    },
+    {
+        "option1": "Harry Potter",
+        "option2": "Lord of the Rings?"
+    },
+    {
+        "option1": "Flats",
+        "option2": "heels?"
+    },
+    {
+        "option1": "Hair up",
+        "option2": "hair down?"
+    },
+    {
+        "option1": "Cake",
+        "option2": "donuts?"
+    },
+    {
+        "option1": "Eggs",
+        "option2": "oatmeal?"
+    },
+    {
+        "option1": "Thousand Island",
+        "option2": "Ranch?"
+    },
+    {
+        "option1": "Frozen veggies",
+        "option2": "canned?"
+    },
+    {
+        "option1": "Pork",
+        "option2": "chicken?"
+    },
+    {
+        "option1": "Cook out in backyard",
+        "option2": "catered?"
+    },
+    {
+        "option1": "Slim Jim",
+        "option2": "Jerky?"
+    },
+    {
+        "option1": "Walnuts",
+        "option2": "sunflower seeds?"
+    },
+    {
+        "option1": "Hot",
+        "option2": "iced tea?"
+    },
+    {
+        "option1": "Sugar",
+        "option2": "chocolate chip cookies?"
+    },
+    {
+        "option1": "Cheese and crackers",
+        "option2": "pretzels?"
+    },
+    {
+        "option1": "Pinto",
+        "option2": "Lima beans?"
+    },
+    {
+        "option1": "Three Musketeers",
+        "option2": "Peppermint Patty?"
+    },
+    {
+        "option1": "Sweet",
+        "option2": "sour?"
+    },
+    {
+        "option1": "Drip coffee",
+        "option2": "instant?"
+    },
+    {
+        "option1": "Re-fried beans",
+        "option2": "rice?"
+    },
+    {
+        "option1": "Cantaloupe",
+        "option2": "grapefruit?"
+    },
+    {
+        "option1": "Irish coffee",
+        "option2": "plain coffee?"
+    },
+    {
+        "option1": "Grape",
+        "option2": "orange?"
+    },
+    {
+        "option1": "Raisin bran",
+        "option2": "granola?"
+    },
+    {
+        "option1": "Black beans",
+        "option2": "kidney beans?"
+    },
+    {
+        "option1": "Chinese",
+        "option2": "Italian?"
+    },
+    {
+        "option1": "Chips with dip",
+        "option2": "vegetables and dip?"
+    },
+    {
+        "option1": "Garlic",
+        "option2": "onion?"
+    },
+    {
+        "option1": "Fish",
+        "option2": "steak?"
+    },
+    {
+        "option1": "Tacos",
+        "option2": "chicken parmigiana?"
+    },
+    {
+        "option1": "Cupcake",
+        "option2": "Dingdong?"
+    },
+    {
+        "option1": "Salad",
+        "option2": "squash?"
+    },
+    {
+        "option1": "Pizza",
+        "option2": "subs?"
+    },
+    {
+        "option1": "Rice crispies",
+        "option2": "Corn flakes?"
+    },
+    {
+        "option1": "Apples",
+        "option2": "bananas?"
+    },
+    {
+        "option1": "Ketchup",
+        "option2": "mustard?"
+    },
+    {
+        "option1": "Sub roll",
+        "option2": "ciabatta roll?"
+    },
+    {
+        "option1": "Whole wheat",
+        "option2": "rye?"
+    },
+    {
+        "option1": "Pancakes",
+        "option2": "waffles?"
+    },
+    {
+        "option1": "Hash browns",
+        "option2": "home fries?"
+    },
+    {
+        "option1": "Gum",
+        "option2": "Lifesavers?"
+    },
+    {
+        "option1": "Cashews",
+        "option2": "hazelnut?"
+    },
+    {
+        "option1": "O\u2019Henry",
+        "option2": "Baby Ruth?"
+    },
+    {
+        "option1": "Trail mix",
+        "option2": "candy bar?"
+    },
+    {
+        "option1": "Well done",
+        "option2": "rare?"
+    },
+    {
+        "option1": "Hot dog",
+        "option2": "taco?"
+    },
+    {
+        "option1": "Cheddar and sour cream",
+        "option2": "salt and vinegar?"
+    },
+    {
+        "option1": "Everything",
+        "option2": "sesame seed bagels?"
+    },
+    {
+        "option1": "Almond Joy",
+        "option2": "Snickers?"
+    },
+    {
+        "option1": "Baked potato",
+        "option2": "onion rings?"
+    },
+    {
+        "option1": "Cinnamon",
+        "option2": "blueberry bagels?"
+    },
+    {
+        "option1": "Apple jacks",
+        "option2": "fruit loops?"
+    },
+    {
+        "option1": "Cake",
+        "option2": "pie?"
+    },
+    {
+        "option1": "Biscuits",
+        "option2": "bread?"
+    },
+    {
+        "option1": "Green beans",
+        "option2": "broccoli?"
+    },
+    {
+        "option1": "Poppy seed",
+        "option2": "onion rolls?"
+    },
+    {
+        "option1": "Mayo",
+        "option2": "salad dressing?"
+    },
+    {
+        "option1": "Wine",
+        "option2": "beer?"
+    },
+    {
+        "option1": "Lime",
+        "option2": "blueberry?"
+    },
+    {
+        "option1": "Italian sub",
+        "option2": "ham and cheese?"
+    },
+    {
+        "option1": "Jello",
+        "option2": "pudding?"
+    },
+    {
+        "option1": "American",
+        "option2": "Mexican?"
+    },
+    {
+        "option1": "Ribs",
+        "option2": "wings?"
+    },
+    {
+        "option1": "Burgers",
+        "option2": "seafood?"
+    },
+    {
+        "option1": "Licorice",
+        "option2": "fruit roll ups?"
+    },
+    {
+        "option1": "Pie",
+        "option2": "cobbler?"
+    },
+    {
+        "option1": "Grilled",
+        "option2": "pan fried?"
+    },
+    {
+        "option1": "Orange soda",
+        "option2": "Grape?"
+    },
+    {
+        "option1": "Bacon",
+        "option2": "sausage?"
+    },
+    {
+        "option1": "Cheerios",
+        "option2": "corn puffs?"
+    },
+    {
+        "option1": "Beer",
+        "option2": "mixed drinks?"
+    },
+    {
+        "option1": "Dinner rolls",
+        "option2": "croissant rolls?"
+    },
+    {
+        "option1": "Cherry",
+        "option2": "raspberry?"
+    },
+    {
+        "option1": "Hot pretzels",
+        "option2": "nachos?"
+    },
+    {
+        "option1": "Sweet potato",
+        "option2": "French fries?"
+    },
+    {
+        "option1": "Stew",
+        "option2": "chili?"
+    },
+    {
+        "option1": "Eat in",
+        "option2": "dine out?"
+    },
+    {
+        "option1": "Scrambled eggs",
+        "option2": "over easy?"
+    },
+    {
+        "option1": "Indian",
+        "option2": "Thai?"
+    },
+    {
+        "option1": "Apple",
+        "option2": "cherry pie?"
+    },
+    {
+        "option1": "Fruit",
+        "option2": "vegetables?"
+    },
+    {
+        "option1": "Coke",
+        "option2": "Pepsi?"
+    },
+    {
+        "option1": "Watermelon",
+        "option2": "plums?"
+    },
+    {
+        "option1": "French fries",
+        "option2": "onion rings?"
+    },
+    {
+        "option1": "Breaded",
+        "option2": "plain?"
+    },
+    {
+        "option1": "Jack Daniels",
+        "option2": "Jim Beam?"
+    },
+    {
+        "option1": "Juice",
+        "option2": "water?"
+    },
+    {
+        "option1": "Pastries",
+        "option2": "confectionaries?"
+    },
+    {
+        "option1": "Cold cereal",
+        "option2": "oatmeal?"
+    },
+    {
+        "option1": "White",
+        "option2": "wheat bread?"
+    },
+    {
+        "option1": "Whole grain",
+        "option2": "white?"
+    },
+    {
+        "option1": "Reese\u2019s peanut butter cup",
+        "option2": "Hershey\u2019s bar?"
+    },
+    {
+        "option1": "Cream and sugar",
+        "option2": "black coffee?"
+    },
+    {
+        "option1": "Coffee",
+        "option2": "tea?"
+    },
+    {
+        "option1": "Oranges",
+        "option2": "peaches?"
+    },
+    {
+        "option1": "Catalina",
+        "option2": "vinaigrette?"
+    },
+    {
+        "option1": "Turkey and cheese",
+        "option2": "roast beef sub?"
+    },
+    {
+        "option1": "Ginger ale",
+        "option2": "Sprite?"
+    },
+    {
+        "option1": "Over easy",
+        "option2": "poached eggs?"
+    },
+    {
+        "option1": "Ice cream",
+        "option2": "sherbet?"
+    },
+    {
+        "option1": "Pastries",
+        "option2": "cookies?"
+    },
+    {
+        "option1": "Tootsie rolls",
+        "option2": "Skittles?"
+    },
+    {
+        "option1": "Corn muffin",
+        "option2": "blueberry?"
+    },
+    {
+        "option1": "Onion dip",
+        "option2": "bacon horseradish dip?"
+    },
+    {
+        "option1": "Family run",
+        "option2": "chain restaurant?"
+    },
+    {
+        "option1": "Peanuts",
+        "option2": "almonds?"
+    },
+    {
+        "option1": "Payday",
+        "option2": "5th avenue?"
+    },
+    {
+        "option1": "Corn chips",
+        "option2": "Doritos?"
+    },
+    {
+        "option1": "Bagels",
+        "option2": "English muffins"
+    },
+    {
+        "option1": "Vanilla",
+        "option2": "chocolate?"
+    },
+    {
+        "option1": "Sandwich",
+        "option2": "soup?"
+    },
+    {
+        "option1": "Deep fried",
+        "option2": "baked?"
+    },
+    {
+        "option1": "Pastrami",
+        "option2": "bologna?"
+    },
+    {
+        "option1": "Tic-tac",
+        "option2": "Altoids?"
+    },
+    {
+        "option1": "Corn",
+        "option2": "peas?"
+    },
+    {
+        "option1": "Food truck",
+        "option2": "diner?"
+    },
+    {
+        "option1": "Sour cream and onion chips",
+        "option2": "barbecue?"
+    },
+    {
+        "option1": "Pumpkin",
+        "option2": "blueberry?"
+    },
+    {
+        "option1": "Popcorn",
+        "option2": "peanuts?"
+    },
+    {
+        "option1": "Sweetened tea",
+        "option2": "unsweetened?"
+    },
+    {
+        "option1": "Cheese fries",
+        "option2": "chili fries?"
+    },
+    {
+        "option1": "Cheeseburger",
+        "option2": "calamari?"
+    },
+    {
+        "option1": "Cook at home",
+        "option2": "take out?"
+    },
+    {
+        "option1": "Iced",
+        "option2": "hot coffee?"
+    },
+    {
+        "option1": "Swiss cake",
+        "option2": "Hoho?"
+    },
+    {
+        "option1": "Perked coffee",
+        "option2": "tea?"
+    },
+    {
+        "option1": "Orange juice",
+        "option2": "grapefruit juice?"
+    },
+    {
+        "option1": "Watch a black and white movie",
+        "option2": "visit a historic site"
+    },
+    {
+        "option1": "Knit a sweater",
+        "option2": "crochet an afghan"
+    },
+    {
+        "option1": "Be interviewed on television",
+        "option2": "have your interview published in a newspaper"
+    },
+    {
+        "option1": "Sit on a couch",
+        "option2": "sit on a recliner"
+    },
+    {
+        "option1": "Swim in the ocean",
+        "option2": "swim in a pool"
+    },
+    {
+        "option1": "Collect seashells by the seashore",
+        "option2": "collect Pokemon cards"
+    },
+    {
+        "option1": "Play music",
+        "option2": "make music"
+    },
+    {
+        "option1": "Play outside",
+        "option2": "create a blanket fort"
+    },
+    {
+        "option1": "Learn to play the clarinet",
+        "option2": "the tuba"
+    },
+    {
+        "option1": "Go hunting",
+        "option2": "fishing"
+    },
+    {
+        "option1": "Try a food you\u2019ve never tasted",
+        "option2": "read a book from a new author"
+    },
+    {
+        "option1": "Go on a safari",
+        "option2": "on a cruise"
+    },
+    {
+        "option1": "Meet someone famous from the past",
+        "option2": "someone famous in the present"
+    },
+    {
+        "option1": "Speak a foreign language",
+        "option2": "create your own language"
+    },
+    {
+        "option1": "Run a mile",
+        "option2": "walk to the mailbox"
+    },
+    {
+        "option1": "Be multilingual",
+        "option2": "always have a translator with you"
+    },
+    {
+        "option1": "Sleep in a tent",
+        "option2": "sleep under the stars"
+    },
+    {
+        "option1": "Run through the woods",
+        "option2": "stroll through a field"
+    },
+    {
+        "option1": "Influencers",
+        "option2": "celebrities?"
+    },
+    {
+        "option1": "Call",
+        "option2": "text?"
+    },
+    {
+        "option1": "Ocean",
+        "option2": "lake?"
+    },
+    {
+        "option1": "Sparkle",
+        "option2": "matte?"
+    },
+    {
+        "option1": "Jog",
+        "option2": "hike?"
+    },
+    {
+        "option1": "Pen",
+        "option2": "pencil?"
+    },
+    {
+        "option1": "Save",
+        "option2": "spend?"
+    },
+    {
+        "option1": "Cards",
+        "option2": "crossword puzzles?"
+    },
+    {
+        "option1": "Teamwork",
+        "option2": "solo project?"
+    },
+    {
+        "option1": "Mac",
+        "option2": "PC?"
+    },
+    {
+        "option1": "Sneakers",
+        "option2": "sandals?"
+    },
+    {
+        "option1": "Hat",
+        "option2": "headband?"
+    },
+    {
+        "option1": "Tattoos",
+        "option2": "piercings?"
+    },
+    {
+        "option1": "Jeans",
+        "option2": "sweats?"
+    },
+    {
+        "option1": "Roses",
+        "option2": "tulips?"
+    },
+    {
+        "option1": "Bar soap",
+        "option2": "shower gel?"
+    },
+    {
+        "option1": "Convertible",
+        "option2": "coupe?"
+    },
+    {
+        "option1": "Car",
+        "option2": "truck?"
+    },
+    {
+        "option1": "Left side",
+        "option2": "right side of bed?"
+    },
+    {
+        "option1": "Past",
+        "option2": "future?"
+    },
+    {
+        "option1": "Math class",
+        "option2": "English class?"
+    },
+    {
+        "option1": "Book smarts",
+        "option2": "street smarts?"
+    },
+    {
+        "option1": "Snap",
+        "option2": "TikTok?"
+    },
+    {
+        "option1": "Pedicure",
+        "option2": "manicure?"
+    },
+    {
+        "option1": "Chess",
+        "option2": "checkers?"
+    },
+    {
+        "option1": "Skiing",
+        "option2": "snowboarding?"
+    },
+    {
+        "option1": "Yoga",
+        "option2": "CrossFit?"
+    },
+    {
+        "option1": "Golf",
+        "option2": "bowling?"
+    },
+    {
+        "option1": "Jog",
+        "option2": "hike?"
+    },
+    {
+        "option1": "Radio",
+        "option2": "television?"
+    },
+    {
+        "option1": "Learn to sing opera",
+        "option2": "learn to play jazz"
+    },
+    {
+        "option1": "Make a doll",
+        "option2": "play with a doll"
+    },
+    {
+        "option1": "Create a painting",
+        "option2": "sketch something"
+    },
+    {
+        "option1": "Use watercolors",
+        "option2": "oil paints"
+    },
+    {
+        "option1": "Go to school",
+        "option2": "teach yourself"
+    },
+    {
+        "option1": "Learn how to dance",
+        "option2": "learn how to sew"
+    },
+    {
+        "option1": "Make a snow angel",
+        "option2": "build an igloo"
+    },
+    {
+        "option1": "Sit by the window and watch birds",
+        "option2": "take a hike through the woods"
+    },
+    {
+        "option1": "Take a nap",
+        "option2": "go to bed early"
+    },
+    {
+        "option1": "Get up early",
+        "option2": "stay up late"
+    },
+    {
+        "option1": "Visit a cemetery",
+        "option2": "go to a quiet place to mourn"
+    },
+    {
+        "option1": "Climb a tree",
+        "option2": "sit under a tree"
+    },
+    {
+        "option1": "Go on a hayride",
+        "option2": "on a rollercoaster"
+    },
+    {
+        "option1": "Meet the Prime Minister of Canada",
+        "option2": "the President of the United States"
+    },
+    {
+        "option1": "Talk on the phone",
+        "option2": "talk to someone in person"
+    },
+    {
+        "option1": "Sleep with the window open",
+        "option2": "closed"
+    },
+    {
+        "option1": "Try to learn German",
+        "option2": "be already able to speak Spanish"
+    },
+    {
+        "option1": "Be invisible",
+        "option2": "fly like superman"
+    },
+    {
+        "option1": "Relax on the couch",
+        "option2": "stay in bed all day"
+    },
+    {
+        "option1": "Travel through time",
+        "option2": "travel through space?"
+    },
+    {
+        "option1": "Travel for the rest of your life",
+        "option2": "never leave your home state again?"
+    },
+    {
+        "option1": "Travel around the world",
+        "option2": "start a family?"
+    },
+    {
+        "option1": "Travel to a new place",
+        "option2": "return to the same place annually?"
+    },
+    {
+        "option1": "Travel",
+        "option2": "go on a vacation?"
+    },
+    {
+        "option1": "Travel with friends, family,",
+        "option2": "your significant other?"
+    },
+    {
+        "option1": "Visit every country in the world",
+        "option2": "go to space?"
+    },
+    {
+        "option1": "Travel 20 years into the past",
+        "option2": "20 years into the future?"
+    },
+    {
+        "option1": "Travel by ship, train",
+        "option2": "by plane?"
+    },
+    {
+        "option1": "Travel abroad alone,",
+        "option2": "with a group?"
+    },
+    {
+        "option1": "Plan your own trip,",
+        "option2": "let the locals tell you the best things to do"
+    },
+    {
+        "option1": "Have time travel",
+        "option2": "teleportation?"
+    },
+    {
+        "option1": "Go into the past and meet your ancestors",
+        "option2": "go into the future and meet your great-great grandchildren?"
+    },
+    {
+        "option1": "Visit, Italy,",
+        "option2": "Greece?"
+    },
+    {
+        "option1": "Travel for 5 years in an RV",
+        "option2": "travel for 5 years in a sailboat?"
+    },
+    {
+        "option1": "Vacation at the beach",
+        "option2": "in the mountains?"
+    },
+    {
+        "option1": "Have a new car",
+        "option2": "travel around the world?"
+    },
+    {
+        "option1": "Have the ability to travel through time,",
+        "option2": "be able to become anyone?"
+    },
+    {
+        "option1": "Travel in a tiny house",
+        "option2": "a camper van?"
+    },
+    {
+        "option1": "Book a pre-made travel tour",
+        "option2": "build your own itinerary from scratch?"
+    },
+    {
+        "option1": "Spend the majority of your money on materialistic things,",
+        "option2": "spend most of your income on fun experiences such as traveling the world?"
+    },
+    {
+        "option1": "Have unlimited free food at any restaurant for the rest of your life,",
+        "option2": "unlimited free flights anywhere for the rest of your life?"
+    },
+    {
+        "option1": "Spend 10 minutes on the moon",
+        "option2": "2 weeks paid vacation in Europe?"
+    },
+    {
+        "option1": "Travel on a flying carpet",
+        "option2": "a dragon\u2019s back?"
+    },
+    {
+        "option1": "Be able to fly",
+        "option2": "teleport?"
+    },
+    {
+        "option1": "Have a vacation in China",
+        "option2": "India?"
+    },
+    {
+        "option1": "Drive",
+        "option2": "fly across the country?"
+    },
+    {
+        "option1": "Travel alone",
+        "option2": "live alone?"
+    },
+    {
+        "option1": "Have a working flying carpet",
+        "option2": "a working rabbit\u2019s foot (for luck)?"
+    },
+    {
+        "option1": "Buy a beautiful cozy home to live with your soulmate",
+        "option2": "travel the world with your soulmate?"
+    },
+    {
+        "option1": "Have an unlimited international first class ticket",
+        "option2": "never have to pay for food at restaurants?"
+    },
+    {
+        "option1": "Be able to work from home",
+        "option2": "travel the world for work?"
+    },
+    {
+        "option1": "Live in a mansion but be forced to stay inside,",
+        "option2": "live in a tiny house and be able to travel anywhere you want?"
+    },
+    {
+        "option1": "Have a vacation to Italy",
+        "option2": "Hawaii?"
+    },
+    {
+        "option1": "Explore space",
+        "option2": "the ocean?"
+    },
+    {
+        "option1": "Sleep in a tent",
+        "option2": "rent a cabin?"
+    },
+    {
+        "option1": "Never have internet access again",
+        "option2": "never be able to take an airplane again?"
+    },
+    {
+        "option1": "Have a flying car",
+        "option2": "an amphibious vehicle?"
+    },
+    {
+        "option1": "Travel to Venice",
+        "option2": "Rome?"
+    },
+    {
+        "option1": "Go without your car",
+        "option2": "the Internet for a month?"
+    },
+    {
+        "option1": "Travel to London for a week",
+        "option2": "New York City?"
+    },
+    {
+        "option1": "Sleep on a long car trip",
+        "option2": "do fun activities?"
+    },
+    {
+        "option1": "Vacation to a major city",
+        "option2": "to a remote location?"
+    },
+    {
+        "option1": "Be able to instantly teleport to places anywhere in the universe,",
+        "option2": "be able to time travel?"
+    },
+    {
+        "option1": "Be able to fly",
+        "option2": "turn invisible?"
+    },
+    {
+        "option1": "Live in your home country",
+        "option2": "live abroad?"
+    },
+    {
+        "option1": "Have to live underground, underwater,",
+        "option2": "in deep space?"
+    },
+    {
+        "option1": "Live in RV",
+        "option2": "an equivalently sized boat?"
+    },
+    {
+        "option1": "Time travel",
+        "option2": "travel parallel dimension?"
+    },
+    {
+        "option1": "Travel with your friends",
+        "option2": "with your partner?"
+    },
+    {
+        "option1": "Spend two weeks traveling to 6 different countries",
+        "option2": "travel to one country and visit different cities within that country?"
+    },
+    {
+        "option1": "Live in a cheap home with a super cheap car and have a lot of money to travel",
+        "option2": "live in an expensive home with an expensive car while only traveling once a year or so?"
+    },
+    {
+        "option1": "Do on a holiday, stay at home, travel domestically,",
+        "option2": "visit a different country?"
+    },
+    {
+        "option1": "Take a cruise",
+        "option2": "fly to your vacation destination?"
+    },
+    {
+        "option1": "Travel to Mexico",
+        "option2": "Brazil?"
+    },
+    {
+        "option1": "Explore the deepest parts of the ocean",
+        "option2": "outer space?"
+    },
+    {
+        "option1": "Have a month of vacation anywhere with all expenses paid,",
+        "option2": "free McDonald\u2019s chicken nuggets for life?"
+    },
+    {
+        "option1": "Have free travel for life",
+        "option2": "free gas for 20 years?"
+    },
+    {
+        "option1": "Forget to pack clean underwear when traveling",
+        "option2": "forget to pack your footwear?"
+    },
+    {
+        "option1": "Have a beach",
+        "option2": "a ski vacation?"
+    },
+    {
+        "option1": "Leave your hometown and never be able to return again,",
+        "option2": "stay in your hometown but never be able to leave?"
+    },
+    {
+        "option1": "Get stuck in traffic for an hour",
+        "option2": "drive an hour out of your way to get where you\u2019re going?"
+    },
+    {
+        "option1": "Live in ancient Greece",
+        "option2": "ancient Egypt?"
+    },
+    {
+        "option1": "Be forced to live in one city",
+        "option2": "keep moving every month to a different city?"
+    },
+    {
+        "option1": "Spend the rest of your life totally indoors",
+        "option2": "totally outdoors?"
+    },
+    {
+        "option1": "Stay in a luxurious resort that didn\u2019t change their sheets",
+        "option2": "in a motel that was clean but had a weird smell?"
+    },
+    {
+        "option1": "Stay in a well known campsite, sleeping in a tent for 7 days,",
+        "option2": "stay in a nice hotel room for 2 days?"
+    },
+    {
+        "option1": "Stay at a hotel with no electricity",
+        "option2": "stay at a hotel with no running water?"
+    },
+    {
+        "option1": "Go on a cruise ship",
+        "option2": "stay in a hotel?"
+    },
+    {
+        "option1": "Stay in an Airbnb",
+        "option2": "Hostel?"
+    },
+    {
+        "option1": "Be able to travel anywhere in the world",
+        "option2": "travel to the international space station and then walk on the moon?"
+    },
+    {
+        "option1": "Travel space with 2 random people",
+        "option2": "live in the 18th century and bring 5 people of your choice with you?"
+    },
+    {
+        "option1": "Time travel",
+        "option2": "travel to an alternate reality?"
+    },
+    {
+        "option1": "Travel with Tom Hanks",
+        "option2": "Harrison Ford?"
+    },
+    {
+        "option1": "Travel to South Korea",
+        "option2": "Japan or a different place in the vicinity?"
+    },
+    {
+        "option1": "Take a two week paid vacation overseas",
+        "option2": "have 4 weeks paid vacation at home?"
+    },
+    {
+        "option1": "Travel to New Zealand",
+        "option2": "Iceland?"
+    },
+    {
+        "option1": "Be able to go anywhere in the entire real universe,",
+        "option2": "travel to all fictional ones?"
+    },
+    {
+        "option1": "Own a mansion, yacht",
+        "option2": "private jet?"
+    },
+    {
+        "option1": "Have a bigger",
+        "option2": "smaller world?"
+    },
+    {
+        "option1": "Never be able to travel outside of your country/state,",
+        "option2": "never be able to return?"
+    },
+    {
+        "option1": "Have a magic bag from which you could pull anything you want,",
+        "option2": "a magic door that would lead to anywhere you want?"
+    },
+    {
+        "option1": "Time travel to change history",
+        "option2": "simply observe it?"
+    },
+    {
+        "option1": "Live by the coast",
+        "option2": "inland?"
+    },
+    {
+        "option1": "Know the truth about all the mysteries of the universe",
+        "option2": "be able to teleport?"
+    },
+    {
+        "option1": "Travel through time",
+        "option2": "go to a distant planet?"
+    },
+    {
+        "option1": "Spend 7 relaxing days on a train ride",
+        "option2": "Have a week long vacation that you do tiring but fun activities every day?"
+    },
+    {
+        "option1": "Stay in a 5 star hotel for a week",
+        "option2": "travel in 1st class on a 24 hour return flight?"
+    },
+    {
+        "option1": "Win free airfare for life",
+        "option2": "free hotel stays for life?"
+    },
+    {
+        "option1": "Live in a house in the ocean",
+        "option2": "a boat on land?"
+    },
+    {
+        "option1": "Live somewhere where the temperature never went below 100 degrees (38 C)",
+        "option2": "where it never went above freezing?"
+    },
+    {
+        "option1": "Get a free trip to the moon",
+        "option2": "a free trip to any 20 cities of your choice?"
+    },
+    {
+        "option1": "Fly a helicopter",
+        "option2": "a fixed wing airplane?"
+    },
+    {
+        "option1": "Sit in a standard economy seat with nobody sitting beside you",
+        "option2": "sit in an exit seat with extra legroom, but have someone sitting beside you?"
+    },
+    {
+        "option1": "Be on a bus for two hours,",
+        "option2": "on an airplane?"
+    },
+    {
+        "option1": "Have your cross-country flight cancelled",
+        "option2": "be stuck on a plane with a broken lavatory?"
+    },
+    {
+        "option1": "Miss your flight",
+        "option2": "lose your luggage?"
+    },
+    {
+        "option1": "Have an airplane pilot land your helicopter,",
+        "option2": "a helicopter pilot land your airplane?"
+    },
+    {
+        "option1": "Sit next to a smelly person",
+        "option2": "an extremely obese person on an airplane?"
+    },
+    {
+        "option1": "Have a mega yacht",
+        "option2": "a private jumbo jet?"
+    },
+    {
+        "option1": "Travel in a helicopter",
+        "option2": "hot air balloon?"
+    },
+    {
+        "option1": "Dog",
+        "option2": "Cat?"
+    },
+    {
+        "option1": "Cookies",
+        "option2": "cake?"
+    },
+    {
+        "option1": "Cuddling",
+        "option2": "sleeping?"
+    },
+    {
+        "option1": "Car",
+        "option2": "truck?"
+    },
+    {
+        "option1": "Netflix",
+        "option2": "YouTube?"
+    },
+    {
+        "option1": "Pop music",
+        "option2": "Rock music?"
+    },
+    {
+        "option1": "Calls",
+        "option2": "texts?"
+    },
+    {
+        "option1": "Bus",
+        "option2": "train?"
+    },
+    {
+        "option1": "Toast",
+        "option2": "Eggs?"
+    },
+    {
+        "option1": "Stuff animals",
+        "option2": "dolls?"
+    },
+    {
+        "option1": "Shower",
+        "option2": "tub?"
+    },
+    {
+        "option1": "Cardio",
+        "option2": "Weights?"
+    },
+    {
+        "option1": "Pancakes",
+        "option2": "waffles?"
+    },
+    {
+        "option1": "Summer",
+        "option2": "Winter?"
+    },
+    {
+        "option1": "Country",
+        "option2": "city?"
+    },
+    {
+        "option1": "Facebook",
+        "option2": "Twitter?"
+    },
+    {
+        "option1": "Ice Cream Cone",
+        "option2": "Snow Cone?"
+    },
+    {
+        "option1": "Hot chocolate",
+        "option2": "coffee?"
+    },
+    {
+        "option1": "Ocean",
+        "option2": "mountains?"
+    },
+    {
+        "option1": "Mobile Games",
+        "option2": "Console Games?"
+    },
+    {
+        "option1": "Morning",
+        "option2": "evening?"
+    },
+    {
+        "option1": "Day",
+        "option2": "night?"
+    },
+    {
+        "option1": "Library",
+        "option2": "museums?"
+    },
+    {
+        "option1": "French",
+        "option2": "Spanish?"
+    },
+    {
+        "option1": "Summer",
+        "option2": "winter?"
+    },
+    {
+        "option1": "Theater",
+        "option2": "cinema?"
+    },
+    {
+        "option1": "Love",
+        "option2": "money?"
+    },
+    {
+        "option1": "iOS",
+        "option2": "Android?"
+    },
+    {
+        "option1": "Form",
+        "option2": "Function?"
+    },
+    {
+        "option1": "Pop",
+        "option2": "Indie?"
+    },
+    {
+        "option1": "Cake",
+        "option2": "Pie?"
+    },
+    {
+        "option1": "Swimming",
+        "option2": "Sunbathing?"
+    },
+    {
+        "option1": "High-tech",
+        "option2": "Low-tech?"
+    },
+    {
+        "option1": "Book",
+        "option2": "movie?"
+    },
+    {
+        "option1": "Tea",
+        "option2": "coffee?"
+    },
+    {
+        "option1": "Chocolate",
+        "option2": "vanilla?"
+    },
+    {
+        "option1": "Coca-Cola",
+        "option2": "Pepsi?"
+    },
+    {
+        "option1": "Rain",
+        "option2": "snow?"
+    },
+    {
+        "option1": "Car",
+        "option2": "motorcycle?"
+    },
+    {
+        "option1": "Comedy",
+        "option2": "horror?"
+    },
+    {
+        "option1": "Hamburgers",
+        "option2": "hot dogs?"
+    },
+    {
+        "option1": "Paper",
+        "option2": "plastic?"
+    },
+    {
+        "option1": "Boat",
+        "option2": "plane?"
+    },
+    {
+        "option1": "Painting",
+        "option2": "drawing?"
+    },
+    {
+        "option1": "Reading",
+        "option2": "writing?"
+    },
+    {
+        "option1": "Singing",
+        "option2": "dancing?"
+    },
+    {
+        "option1": "New Clothes",
+        "option2": "New Phone?"
+    },
+    {
+        "option1": "Rich Friend",
+        "option2": "Loyal Friend?"
+    },
+    {
+        "option1": "Football",
+        "option2": "Basketball?"
+    },
+    {
+        "option1": "Work Hard",
+        "option2": "Play Hard?"
+    },
+    {
+        "option1": "Jogging",
+        "option2": "Hiking?"
+    },
+    {
+        "option1": "Be worshipped",
+        "option2": "hated"
+    },
+    {
+        "option1": "Be nauseous all day,",
+        "option2": "have a headache all day"
+    },
+    {
+        "option1": "Have only twenty hours in a day,",
+        "option2": "only five days in a week"
+    },
+    {
+        "option1": "Forget everything you\u2019ve ever learned,",
+        "option2": "forget everyone you\u2019ve ever known"
+    },
+    {
+        "option1": "Face your biggest fear,",
+        "option2": "spend a week with the person you dislike the most"
+    },
+    {
+        "option1": "Do schoolwork for so long you feel sick",
+        "option2": "feel so stick you can\u2019t do schoolwork"
+    },
+    {
+        "option1": "Get lost alone,",
+        "option2": "get lost with someone who annoys you"
+    },
+    {
+        "option1": "Lose all thought,",
+        "option2": "lose all feeling"
+    },
+    {
+        "option1": "Be raised by wolves,",
+        "option2": "be raised by sharks"
+    },
+    {
+        "option1": "Be covered by bug bites,",
+        "option2": "be covered in chicken pox"
+    },
+    {
+        "option1": "Do what is right, even if it isn\u2019t popular,",
+        "option2": "do what is wrong and be liked"
+    },
+    {
+        "option1": "Be homeless,",
+        "option2": "be hungry"
+    },
+    {
+        "option1": "Be physically attractive,",
+        "option2": "be intelligent"
+    },
+    {
+        "option1": "Find out someone you trust has lied to you,",
+        "option2": "lie someone who trusts you"
+    },
+    {
+        "option1": "Never be able to cry again,",
+        "option2": "never be able to laugh again"
+    },
+    {
+        "option1": "Have a fight with your best friend,",
+        "option2": "have a fight with one of your parents"
+    },
+    {
+        "option1": "Be attacked by a bear,",
+        "option2": "be attacked by a snake"
+    },
+    {
+        "option1": "Find out you\u2019re actually a robot,",
+        "option2": "find out you\u2019ve been living your whole life in a dream"
+    },
+    {
+        "option1": "Have the ability to become invisible",
+        "option2": "super strength"
+    },
+    {
+        "option1": "Have a permanent smile",
+        "option2": "a permanent frown stuck on your face"
+    },
+    {
+        "option1": "Wear makeup every day for a year",
+        "option2": "spend a whole year without being able to wash your face"
+    },
+    {
+        "option1": "Stand on stage in front of everyone you know in your underwear,",
+        "option2": "dress like a clown for a week"
+    },
+    {
+        "option1": "Be a butterfly",
+        "option2": "a bee"
+    },
+    {
+        "option1": "Go a month without sleep,",
+        "option2": "a year without any kind of sugar"
+    },
+    {
+        "option1": "Wake up really early,",
+        "option2": "stay up really late"
+    },
+    {
+        "option1": "Wake up really early,",
+        "option2": "stay up really late"
+    },
+    {
+        "option1": "Be a shark",
+        "option2": "a caterpillar"
+    },
+    {
+        "option1": "Have a pet snake,",
+        "option2": "a pet turtle"
+    },
+    {
+        "option1": "Become an incredible baker,",
+        "option2": "an incredible cook"
+    },
+    {
+        "option1": "Be a vampire",
+        "option2": "a werewolf"
+    },
+    {
+        "option1": "Have your favourite food every day,",
+        "option2": "have a million dollars \u2013 but never have your favourite food again"
+    },
+    {
+        "option1": "Live in a house with broken heating,",
+        "option2": "broken air conditioning"
+    },
+    {
+        "option1": "Become a cartoon character,",
+        "option2": "see everyone you know become cartoon characters"
+    },
+    {
+        "option1": "Having to give up your favourite food,",
+        "option2": "having to give up your favourite dessert"
+    },
+    {
+        "option1": "Never see winter again,",
+        "option2": "never see summer again"
+    },
+    {
+        "option1": "Be a garbage collector",
+        "option2": "a person who sorts recycling"
+    },
+    {
+        "option1": "Never being able to watch television again,",
+        "option2": "never being able to read a book again"
+    },
+    {
+        "option1": "Be a wizard",
+        "option2": "a superhero"
+    },
+    {
+        "option1": "Have pancakes",
+        "option2": "waffles"
+    },
+    {
+        "option1": "Have a sweet snack",
+        "option2": "a salty snack"
+    },
+    {
+        "option1": "Be a tree",
+        "option2": "a flower"
+    },
+    {
+        "option1": "Spend a day in the body of someone of the opposite sex,",
+        "option2": "spend a day in one of your parent\u2019s bodies"
+    },
+    {
+        "option1": "Have twenty siblings",
+        "option2": "no siblings"
+    },
+    {
+        "option1": "Spend a year without video games,",
+        "option2": "a year without a cell phone"
+    },
+    {
+        "option1": "Spend a whole day reading the dictionary",
+        "option2": "a whole year studying a new language"
+    },
+    {
+        "option1": "Wake up to the smell of autumn everyday,",
+        "option2": "wake to the smell of spring everyday"
+    },
+    {
+        "option1": "Never see the sun again",
+        "option2": "never see the moon again"
+    },
+    {
+        "option1": "Switch careers entirely",
+        "option2": "stay in your career field forever?"
+    },
+    {
+        "option1": "Wear a Santa outfit",
+        "option2": "an elf outfit to work every day for a month?"
+    },
+    {
+        "option1": "Be famous for starring in a cheesy holiday movie",
+        "option2": "not be famous at all?"
+    },
+    {
+        "option1": "Have an eggnog machine instead of a coffee machine at work year-round",
+        "option2": "have your corporate dress code require ugly Christmas sweaters?"
+    },
+    {
+        "option1": "Work untangling Christmas lights",
+        "option2": "work as a mall Santa?"
+    },
+    {
+        "option1": "Have \u201cDreidel, Dreidel, Dreidel\u201d stuck in your head",
+        "option2": "\u201cJingle Bells?\u201d"
+    },
+    {
+        "option1": "Get amazing presents for four nights of Hanukkah and bad presents for the other four nights,",
+        "option2": "get eight OK presents?"
+    },
+    {
+        "option1": "Your office always smelled like gravy",
+        "option2": "always smelled like turkey?"
+    },
+    {
+        "option1": "Have your ears turn into elf ears",
+        "option2": "have a Santa beard forever?"
+    },
+    {
+        "option1": "Give up Christmas trees",
+        "option2": "Christmas cookies?"
+    },
+    {
+        "option1": "Get one amazing holiday gift",
+        "option2": "10 OK holiday gifts?"
+    },
+    {
+        "option1": "Have to eat 1,000 chocolate Hanukkah coins",
+        "option2": "eat just one \u2014 but with the wrapper still on?"
+    },
+    {
+        "option1": "Be an elf in Santa\u2019s shop",
+        "option2": "a reindeer on Santa\u2019s sleigh?"
+    },
+    {
+        "option1": "Have it be your favorite holiday every day",
+        "option2": "never have that holiday again?"
+    },
+    {
+        "option1": "Know what all your gifts are",
+        "option2": "be surprised by all your gifts?"
+    },
+    {
+        "option1": "Only have dessert on holidays",
+        "option2": "never have dessert on holidays?"
+    },
+    {
+        "option1": "Wash your hair with cranberry sauce",
+        "option2": "wash your hair with mashed potatoes and gravy?"
+    },
+    {
+        "option1": "Eat only Christmas cookies",
+        "option2": "only drink hot cocoa?"
+    },
+    {
+        "option1": "Be a turkey farmer",
+        "option2": "a pumpkin farmer?"
+    },
+    {
+        "option1": "Get one big present",
+        "option2": "a bunch of small presents?"
+    },
+    {
+        "option1": "Meet Rudolph",
+        "option2": "meet Jack Frost?"
+    },
+    {
+        "option1": "Spend an entire day just drinking hot chocolate",
+        "option2": "eating freshly baked cookies?"
+    },
+    {
+        "option1": "Get $1000 to spend on yourself",
+        "option2": "$1000 to spend on others?"
+    },
+    {
+        "option1": "Spend the day watching your favorite Christmas movies",
+        "option2": "listening to holiday music?"
+    },
+    {
+        "option1": "Decorate your Christmas tree with all candy canes",
+        "option2": "strings of popcorn?"
+    },
+    {
+        "option1": "Know what every single gift you are getting actually is",
+        "option2": "be completely surprised?"
+    },
+    {
+        "option1": "Be an elf working in Santa\u2019s shop",
+        "option2": "a reindeer pulling Santa\u2019s sleigh?"
+    },
+    {
+        "option1": "Only be able to sing words for the whole day",
+        "option2": "just have the ability to say, \u201cHo! Ho! Ho!\u201d."
+    },
+    {
+        "option1": "Live in a gingerbread house",
+        "option2": "on Candy Cane Lane?"
+    },
+    {
+        "option1": "Have your family over for Christmas",
+        "option2": "go to someone else\u2019s house?"
+    },
+    {
+        "option1": "Wear ugly matching sweaters for the entire month with your family",
+        "option2": "not put up any Christmas decorations at all?"
+    },
+    {
+        "option1": "Fill your entire ceiling with tinsel",
+        "option2": "mistletoe?"
+    },
+    {
+        "option1": "Make snow angels",
+        "option2": "igloo forts?"
+    },
+    {
+        "option1": "Have a massive snowstorm on Christmas Eve",
+        "option2": "no snow at all?"
+    },
+    {
+        "option1": "Have a holiday party every night of the month",
+        "option2": "no holiday parties to attend?"
+    },
+    {
+        "option1": "Wear Santa\u2019s red suit",
+        "option2": "one of his elves outfits outside with friends?"
+    },
+    {
+        "option1": "Have chocolate chip cookies",
+        "option2": "sugar cookies?"
+    },
+    {
+        "option1": "Have the outside of your house totally decorated and the inside empty",
+        "option2": "the inside of your house totally decorated and the outside bare?"
+    },
+    {
+        "option1": "Be able to sit down and eat cookies with Santa",
+        "option2": "spend a whole day at the North Pole with the elves?"
+    },
+    {
+        "option1": "All the snowmen you build come alive",
+        "option2": "all the snowballs you throw boomerang back so you can throw them again?"
+    },
+    {
+        "option1": "Have ham for Christmas dinner",
+        "option2": "turkey for Christmas dinner?"
+    },
+    {
+        "option1": "Grow Santa\u2019s beard",
+        "option2": "Santa\u2019s belly?"
+    },
+    {
+        "option1": "Ride on Santa\u2019s sleigh",
+        "option2": "on the real Polar Express?"
+    },
+    {
+        "option1": "Meet The Grinch",
+        "option2": "be The Grinch?"
+    },
+    {
+        "option1": "Wrap 100 presents",
+        "option2": "eat 100 cookies?"
+    },
+    {
+        "option1": "Trick-or-treat in your neighborhood",
+        "option2": "a new neighborhood?"
+    },
+    {
+        "option1": "Collect candy in a pillowcase",
+        "option2": "in a bucket?"
+    },
+    {
+        "option1": "Go trick-or-treating",
+        "option2": "hand out candy?"
+    },
+    {
+        "option1": "Have everyday be Halloween",
+        "option2": "never have Halloween?"
+    },
+    {
+        "option1": "Dress up as something scary",
+        "option2": "something silly?"
+    },
+    {
+        "option1": "Carve a pumpkin",
+        "option2": "bob for apples?"
+    },
+    {
+        "option1": "Have a monster in your closet",
+        "option2": "ghost under your bed?"
+    },
+    {
+        "option1": "See a trick",
+        "option2": "get a treat?"
+    },
+    {
+        "option1": "Meet a vampire",
+        "option2": "meet a werewolf?"
+    },
+    {
+        "option1": "Walk through a haunted house",
+        "option2": "run through graveyard at midnight?"
+    },
+    {
+        "option1": "Dress up as a hero/heroine",
+        "option2": "as a villain?"
+    },
+    {
+        "option1": "Watch a scary movie",
+        "option2": "be in a scary movie?"
+    },
+    {
+        "option1": "Trick-or-treat with your friends",
+        "option2": "trick-or-treat with your family?"
+    },
+    {
+        "option1": "Be able to see ghosts",
+        "option2": "walk through walls?"
+    },
+    {
+        "option1": "Wear a store-bought costume",
+        "option2": "a homemade costume?"
+    },
+    {
+        "option1": "Be scared",
+        "option2": "scare someone else?"
+    },
+    {
+        "option1": "Get a Snickers",
+        "option2": "a Twix bar in your candy bag?"
+    },
+    {
+        "option1": "Have a black cat cross your path",
+        "option2": "break a mirror for bad luck?"
+    },
+    {
+        "option1": "Get bitten by a vampire",
+        "option2": "hexed by a witch?"
+    },
+    {
+        "option1": "Be chased by a zombie",
+        "option2": "be chased by the headless horseman?"
+    },
+    {
+        "option1": "Eat candy corn",
+        "option2": "pumpkin seeds every day for a month?"
+    },
+    {
+        "option1": "Spend an hour in a walk-in freezer,",
+        "option2": "two hours in a sauna"
+    },
+    {
+        "option1": "Live forever,",
+        "option2": "live to be only sixty years old"
+    },
+    {
+        "option1": "Have to grow all your own food,",
+        "option2": "eat your food knowing it was grown with pesticides"
+    },
+    {
+        "option1": "Be able to feel what other are feeling,",
+        "option2": "be able to see what others are seeing"
+    },
+    {
+        "option1": "Be a millionaire with no friends,",
+        "option2": "a poor person with a wonderful community"
+    },
+    {
+        "option1": "Get a horrible sunburn,",
+        "option2": "get stung by a jellyfish"
+    },
+    {
+        "option1": "Be the richest person alive,",
+        "option2": "the smartest person alive"
+    },
+    {
+        "option1": "Be famous but get followed everywhere you go,",
+        "option2": "be unknown and never get a job"
+    },
+    {
+        "option1": "Never experience love,",
+        "option2": "experience love many times but never get married"
+    },
+    {
+        "option1": "Have a really nice car,",
+        "option2": "a mansion"
+    },
+    {
+        "option1": "Be a movie star,",
+        "option2": "a rockstar"
+    },
+    {
+        "option1": "Lose all your hair,",
+        "option2": "all your teeth"
+    },
+    {
+        "option1": "Be shrunk down to the size of a cricket,",
+        "option2": "blown up the size of an elephant"
+    },
+    {
+        "option1": "Have to sleep standing up,",
+        "option2": "have to eat upside down"
+    },
+    {
+        "option1": "Drop out of school,",
+        "option2": "go to school every day for the rest of your life"
+    },
+    {
+        "option1": "Learn a skill that interests you but will never get you a job,",
+        "option2": "a skill that will get you a job, but is of no interest to you"
+    },
+    {
+        "option1": "Read a book",
+        "option2": "watch a movie"
+    },
+    {
+        "option1": "Write a book,",
+        "option2": "write a TV show"
+    },
+    {
+        "option1": "Live with the person you like least in the world,",
+        "option2": "live alone"
+    },
+    {
+        "option1": "Win the lottery,",
+        "option2": "earn the same amount of money"
+    },
+    {
+        "option1": "Achieve your ultimate goal very young and not know where to go from there,",
+        "option2": "spend your whole life working toward your ultimate goal, only to succeed in your old age"
+    },
+    {
+        "option1": "Win a million dollars but have to spend it on other people,",
+        "option2": "win a thousand dollars and get to spend it only on yourself"
+    },
+    {
+        "option1": "Become a kindergarten teacher,",
+        "option2": "a veterinarian"
+    },
+    {
+        "option1": "Never have to sleep again,",
+        "option2": "never have to eat again"
+    },
+    {
+        "option1": "Rather be buried alive,",
+        "option2": "drown"
+    },
+    {
+        "option1": "Never see the sky again,",
+        "option2": "never see your family again"
+    },
+    {
+        "option1": "Be an animal,",
+        "option2": "a robot"
+    },
+    {
+        "option1": "Go to prison,",
+        "option2": "spend your life on the run from the cops"
+    },
+    {
+        "option1": "Be evil and powerful,",
+        "option2": "good and weak"
+    },
+    {
+        "option1": "Go skydiving",
+        "option2": "bungee jumping"
+    },
+    {
+        "option1": "Zipline through a rainforest",
+        "option2": "swim with dolphins"
+    },
+    {
+        "option1": "Be surrounded by sharks",
+        "option2": "jellyfish"
+    },
+    {
+        "option1": "Spend an entire day running in the desert without water",
+        "option2": "two hours swimming in the middle of the ocean after dark"
+    },
+    {
+        "option1": "Walk a hundred miles with no shoes,",
+        "option2": "swim ten miles with no bathing suit"
+    },
+    {
+        "option1": "Go tobogganing",
+        "option2": "skating"
+    },
+    {
+        "option1": "Have a pet tiger,",
+        "option2": "pet chimpanzees"
+    },
+    {
+        "option1": "Paraglide,",
+        "option2": "be a passenger in a race car"
+    },
+    {
+        "option1": "Huke up a mountain,",
+        "option2": "through a rainforest"
+    },
+    {
+        "option1": "Drive a motorcycle down the coast of American,",
+        "option2": "drive a van across Europe"
+    },
+    {
+        "option1": "Live in a tree house,",
+        "option2": "inside the world of your favorite movie"
+    },
+    {
+        "option1": "Be able to fly,",
+        "option2": "have the ability to breathe underwater"
+    },
+    {
+        "option1": "Be a secret agent for the government,",
+        "option2": "be a vigilante"
+    },
+    {
+        "option1": "Boat down a waterfall,",
+        "option2": "spend a year in a spaceship 48. Would you rather"
+    },
+    {
+        "option1": "Be able to read minds,",
+        "option2": "run as fast as a car"
+    },
+    {
+        "option1": "Travel on horseback,",
+        "option2": "on a motorcycle"
+    },
+    {
+        "option1": "Live in an airplane,",
+        "option2": "a boat"
+    },
+    {
+        "option1": "Be an astronaut",
+        "option2": "a firefighter"
+    },
+    {
+        "option1": "Live in Alice in Wonderland\u2019s world,",
+        "option2": "Peter Pan\u2019s world"
+    },
+    {
+        "option1": "Be super strong",
+        "option2": "super smart"
+    },
+    {
+        "option1": "Be Catwoman",
+        "option2": "Wonder Woman"
+    },
+    {
+        "option1": "Be Spiderman",
+        "option2": "Batman"
+    },
+    {
+        "option1": "Be a transformer",
+        "option2": "a pokemon"
+    },
+    {
+        "option1": "Travel the world,",
+        "option2": "live in an exotic place"
+    },
+    {
+        "option1": "Go on a rollercoaster with seven loop-deloops,",
+        "option2": "a waterslide that\u2019s five minutes long"
+    },
+    {
+        "option1": "Go white water rafting,",
+        "option2": "kayak across the ocean"
+    },
+    {
+        "option1": "Go to Hogwarts",
+        "option2": "Jedi academy"
+    },
+    {
+        "option1": "Go ice fishing",
+        "option2": "deer hunting"
+    },
+    {
+        "option1": "Go rock climbing,",
+        "option2": "do an obstacle course"
+    },
+    {
+        "option1": "Learn to master a bow and arrow,",
+        "option2": "master a slingshot"
+    },
+    {
+        "option1": "Go camping for a week,",
+        "option2": "portaging for a weekend"
+    },
+    {
+        "option1": "Live abroad in your country of choice,",
+        "option2": "live in a treehouse in a magical forest"
+    },
+    {
+        "option1": "Spend a weekend in a kayak,",
+        "option2": "spend a weekend in a canoe"
+    },
+    {
+        "option1": "Have an all-expenses paid trip alone for a year,",
+        "option2": "a low-budget trip with your friends for a weekend"
+    },
+    {
+        "option1": "Live in a world of your creation,",
+        "option2": "live in a world of your best friend\u2019s creation"
+    },
+    {
+        "option1": "Go for a long run everyday",
+        "option2": "go for a long bike ride everyday"
+    },
+    {
+        "option1": "Be able to do a hundred pushups without breaking a sweat,",
+        "option2": "be able to do a thousand jumping jacks without breaking a sweat"
+    },
+    {
+        "option1": "Live in the world of Harry Potter but have to battle Voldemort once a year,",
+        "option2": "live in the world of the Hunger Games and have to fight kids from other districts"
+    },
+    {
+        "option1": "Be a fairy,",
+        "option2": "a mermaid"
+    },
+    {
+        "option1": "Have an incredible sense of direction,",
+        "option2": "have an incredible sense of smell"
+    },
+    {
+        "option1": "Be able to leap across tall buildings,",
+        "option2": "be able to heal any sickness"
+    },
+    {
+        "option1": "Travel the world on a boat,",
+        "option2": "travel the world in a limousine"
+    },
+    {
+        "option1": "Fight undead skeletons for a chest of treasure,",
+        "option2": "sneak past a mountain troll for a chest of treasure"
+    },
+    {
+        "option1": "Be able to see the future,",
+        "option2": "be able to change the future"
+    },
+    {
+        "option1": "See the other side of a black hole,",
+        "option2": "walk on the moon"
+    },
+    {
+        "option1": "Build the magical world of your dreams,",
+        "option2": "find yourself inside of your favourite movie"
+    },
+    {
+        "option1": "Be able to change your human appearance at will,",
+        "option2": "be able to transform int any animal you want"
+    },
+    {
+        "option1": "Go exploring in a cave for treasure,",
+        "option2": "go on an underwater adventure looking for treasure in sunken ships"
+    },
+    {
+        "option1": "Climb the height of a skyscraper,",
+        "option2": "jump off the top of a skyscraper with a parachute"
+    }
+]
