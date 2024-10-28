@@ -4,7 +4,7 @@ import ReactGA from 'react-ga';
 
 
 import '../App.css';
-import halvor1 from '../images/halvor1.jpg';
+import halvor1 from '../images/halvorgreen.jpg';
 import halvor2 from '../images/halvor2.jpg';
 import halvor3 from '../images/halvor3.jpg';
 import halvor4 from '../images/halvor4.jpg';
@@ -18,7 +18,7 @@ import { Link } from 'react-router-dom';
 
 const MainPage = () => {
 
-  const images = [halvor1, halvor2, halvor3, halvor4, halvor5, halvor6, halvor7, halvor8, halvor9, halvor10];
+  const images = [halvor1];
 
   const [randomImage, setRandomImage] = useState(images[Math.floor(Math.random() * images.length)]);
 
@@ -30,8 +30,8 @@ const MainPage = () => {
   return (
     <>
       <div className="App-body">
-        <h1>HalvorHub</h1>
-          <img src={randomImage} className="App-logo" alt="Halvor" /> {/* Add this line */}
+        <h1 style={{ color: 'orange' }}>HalvorWeenHub</h1>
+        <img src={randomImage} className="App-logo" alt="Halvor" />
       </div>
     </>
   );
