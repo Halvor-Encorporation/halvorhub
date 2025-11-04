@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a188e2e.css",
-    "main.js": "/static/js/main.d04255f9.js",
-    "static/js/453.3bd0da8c.chunk.js": "/static/js/453.3bd0da8c.chunk.js",
+    "main.css": "/static/css/main.86d312c1.css",
+    "main.js": "/static/js/main.fc68dacc.js",
+    "static/js/453.d84630d0.chunk.js": "/static/js/453.d84630d0.chunk.js",
     "static/media/halvor4.jpg": "/static/media/halvor4.3692aa38f4762c168428.jpg",
     "static/media/halvor3.jpg": "/static/media/halvor3.46725d2b45161b748b27.jpg",
     "static/media/halvor8.jpg": "/static/media/halvor8.2925aaf394406c6ea6bf.jpg",
@@ -13,17 +13,17 @@
     "static/media/sveinung.png": "/static/media/sveinung.32efcab1ea0fb7efd126.png",
     "static/media/halvor9.jpg": "/static/media/halvor9.0a3ab04e9d53618fe63d.jpg",
     "static/media/halvor7.jpg": "/static/media/halvor7.02921592779a83798835.jpg",
-    "static/media/halvorgreen.jpg": "/static/media/halvorgreen.372334e508ec923774e4.jpg",
     "static/media/drage.jpg": "/static/media/drage.7b16d6f2c2211bb706de.jpg",
     "static/media/surf.jpg": "/static/media/surf.e5be11cb5ada3faf9e43.jpg",
     "static/media/fekting.jpg": "/static/media/fekting.47389ef7c8a5a57a6039.jpg",
+    "static/media/halvor1.jpg": "/static/media/halvor1.9d90df4c63b530bcc786.jpg",
     "index.html": "/index.html",
-    "main.7a188e2e.css.map": "/static/css/main.7a188e2e.css.map",
-    "main.d04255f9.js.map": "/static/js/main.d04255f9.js.map",
-    "453.3bd0da8c.chunk.js.map": "/static/js/453.3bd0da8c.chunk.js.map"
+    "main.86d312c1.css.map": "/static/css/main.86d312c1.css.map",
+    "main.fc68dacc.js.map": "/static/js/main.fc68dacc.js.map",
+    "453.d84630d0.chunk.js.map": "/static/js/453.d84630d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a188e2e.css",
-    "static/js/main.d04255f9.js"
+    "static/css/main.86d312c1.css",
+    "static/js/main.fc68dacc.js"
   ]
 }
