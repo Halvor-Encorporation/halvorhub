@@ -18,7 +18,7 @@ import { Link } from 'react-router-dom';
 
 const MainPage = () => {
 
-  const images = [halvor1, halvor2, halvor3, halvor4, halvor5, halvor6, halvor7, halvor8, halvor9, halvor10];
+  const images = [halvor1];
 
   const [randomImage, setRandomImage] = useState(images[Math.floor(Math.random() * images.length)]);
 
