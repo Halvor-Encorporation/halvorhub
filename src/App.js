@@ -14,6 +14,7 @@ import Sveinung from './pages/Sveinung.js';
 import Navigation from './pages/Navigation.js';
 import ReactGA from 'react-ga';
 import ThisOrThat from './pages/ThisOrThat.js';
+import RandomImageGame from './pages/RandomImageGame.js';
 
 ReactGA.initialize('G-SERJ5DC5CW');
 
@@ -31,6 +32,7 @@ const App = () => {
         <Route path="/sveinung" element={<Sveinung />} />
         <Route path="/roulette" element={<Roulette />} />
         <Route path="/thisorthat" element={<ThisOrThat />} />
+        <Route path="/randomimagegame" element={<RandomImageGame />} />
       </Routes>
     </Router>
   );

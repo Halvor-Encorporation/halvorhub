@@ -11,6 +11,7 @@ const pageStructure = {
         {"title": "Sveinung's Lek", "path": "sveinung"},
         {"title": "Roulette", "path": "roulette"},
         {"title": "This or That", "path": "thisorthat"},
+        {"title": "Random Image Game 🖼️", "path": "randomimagegame"},
       ]
     },
     'courses': {
